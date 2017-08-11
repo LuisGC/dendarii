@@ -15,7 +15,7 @@
 baseurl = "https://dendarii.es"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Saga theme"
+title = "Dendarii.es"
 theme = "saga-theme"
 #disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
