@@ -1,10 +1,9 @@
 ---
 author: yamila
 comments: true
-date: 2014-11-23 20:32:37+00:00
-slug: cosas-de-programacion
-title: Cosas de programación...
-wordpress_id: 627
+date: 2017-04-02
+slug: viaje-a-la-luna-ii
+title: Viaje a la Luna II
 ---
 
 Tengo un blog de viajes. Compré un tema de wordpress para hacerlo más bonito. Tiene algún bug. Así que me he creado un repo privado para poder probarlo en local y resolverlo y poder actualizar mi servidor con los fixes.
