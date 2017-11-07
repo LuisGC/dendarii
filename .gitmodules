@@ -1,0 +1,12 @@
+[submodule "themes/hugo-tracks-theme"]
+	path = themes/hugo-tracks-theme
+	url = git@github.com:ageekymonk/hugo-tracks-theme.git
+[submodule "themes/hugo_theme_robust"]
+	path = themes/hugo_theme_robust
+	url = git@github.com:dim0627/hugo_theme_robust.git
+[submodule "themes/hugo-creative-portfolio-theme"]
+	path = themes/hugo-creative-portfolio-theme
+	url = git@github.com:kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "themes/hugo-tranquilpeak-theme"]
+	path = themes/hugo-tranquilpeak-theme
+	url = git@github.com:kakawait/hugo-tranquilpeak-theme.git
