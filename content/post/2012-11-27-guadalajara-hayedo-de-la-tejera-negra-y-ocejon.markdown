@@ -3,7 +3,7 @@ author: yamila
 date: 2012-11-27T23:45:59.000Z
 slug: guadalajara-hayedo-de-la-tejera-negra-y-ocejon
 title: Guadalajara- Hayedo de la Tejera Negra y Ocejón
-thumbnailImage: /content/images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg
+thumbnailImage: /images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg
 tags:
 - Guadalajara
 ---
@@ -15,7 +15,7 @@ Nuestra visita partió del centro de interpretación que está al lado de Cantal
 
 En el aparcamiento (gratuito pero CON reserva [aquí](http:/agricultura.jccm.es/parques/forms/parqf001.php)) que hay en la entrada del hayedo tuvimos que dejar las bicis y hacer el paseo por el hayedo a pie (6kms aprox). La primera parte del paseo va bordeando el hayedo hasta un mirador con unas vistas increíbles.
 
-[![Autor: Luiyo](/content/images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg "Vista desde el mirador del Hayedo")](/content/images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg#full)
+[![Autor: Luiyo](/images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg "Vista desde el mirador del Hayedo")](/images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg#full)
 Panorámica que sacó Luiyo desde el mirador
 
 Después se mete más de lleno en el hayedo y, dado que es una ruta circular, se llega al punto de partida. Es una ruta sencilla muy recomendable para todos los públicos.
@@ -30,12 +30,12 @@ La previsión para el domingo era de lluvias, pero amaneció soleado y nos decid
 
 Como el tiempo es cambiante, según íbamos subiendo la niebla se hizo fuerte en toda la montaña y perdimos absolutamente toda la visibilidad. Con todo, conseguimos llegar a la cumbre desde donde nos imaginamos unas vistas maravillosas; aunque nos las estuvimos imaginando durante poco tiempo, que con la niebla hacía mucho frío y bajamos rápidamente.
 
-[![](/content/images/2012/11/p1040738-copy.jpg "En la cima del Ocejón")](/content/images/2012/11/p1040738-copy.jpg#small)
+[![](/images/2012/11/p1040738-copy.jpg "En la cima del Ocejón")](/images/2012/11/p1040738-copy.jpg#small)
 Dani, Blanca, Luiyo y yo: tenemos cara de felicidad pero nos estamos pelando de frío.
 
 Dejo [aquí](https:/maps.google.com/maps/ms?msid=200468041007383721861.0004cf6db61fe627a90e4&msa=0) la ruta que hicimos para subir al Ocejón; no es circular, así que una vez que coronamos, tuvimos que volver sobre nuestros pasos.
 
-[![](/content/images/2012/11/p1040735-copy.jpg "Nuestros pasos")](/content/images/2012/11/p1040735-copy.jpg#full)
+[![](/images/2012/11/p1040735-copy.jpg "Nuestros pasos")](/images/2012/11/p1040735-copy.jpg#full)
 El punto geodésico con 4 pares de pies que aseguramos que son los nuestros. Palabrita de niña buena.
 
 Es una zona preciosa que desconocía completamente y que recomiendo para los amantes del senderismo y el ciclismo. Nos dejamos sin visitar, salvo de pasada, los pueblos negros y los pueblos rojos, así que ya tengo la excusa perfecta para volver a la zona e intentar de nuevo mi Tourmalet personal.

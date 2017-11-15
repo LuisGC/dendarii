@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-14T06:40:10.000Z
 slug: usa-2014-grand-canyon-1
 title: USA 2014- Grand Canyon (1)
-thumbnailImage: /content/images/2014/09/blog-jugandome-la-vida.jpg
+thumbnailImage: /images/2014/09/blog-jugandome-la-vida.jpg
 tags:
 - USA
 ---
@@ -21,24 +21,24 @@ Al Grand Canyon se accede “desde arriba”, que es lo que está a nivel del su
 
 Aquí os dejo el perfil de la ruta que hemos hecho:
 
-[![Lo suyo sería rodar cuesta bajo y pillar carrerilla para la subida, pero, por lo visto, los montes "no funcionan así" >_<](/content/images/2014/09/blog-south-kaibab.png)](/content/images/2014/09/blog-south-kaibab.png)
+[![Lo suyo sería rodar cuesta bajo y pillar carrerilla para la subida, pero, por lo visto, los montes "no funcionan así"](/images/2014/09/blog-south-kaibab.png)](/images/2014/09/blog-south-kaibab.png)
 Lo suyo sería rodar cuesta bajo y pillar carrerilla para la subida, pero, por lo visto, los montes “no funcionan así” >_
 
 Normalmente con un perfil así se tarda al menos un 50% más en hacer la subida que la bajada; salvo que tengas vértigo: entonces tardas LO MISMO en hacer la subida que la bajada... Lo cierto es que lo he pasado bastante mal bajando, porque la ruta bajaba en zigzag por la pared vertical y no había una maldita valla. Así que vamos a replanificar la que teníamos para mañana. Eso sí, mañana a las 10, helicóptero XD
 
-[![Aquí una foto de lo super mal que lo estoy pasando en la ruta](/content/images/2014/09/blog-jugandome-la-vida.jpg#small)](/content/images/2014/09/blog-jugandome-la-vida.jpg#full)
+[![Aquí una foto de lo super mal que lo estoy pasando en la ruta](/images/2014/09/blog-jugandome-la-vida.jpg#small)](/images/2014/09/blog-jugandome-la-vida.jpg#full)
 Aquí una foto de lo super mal que lo estoy pasando en la ruta
 
 Después hemos ido a reponer fuerzas y por la tarde hemos hecho la ruta de los miradores hacia el oeste del cañón, donde hemos llegado justo para la puesta de sol. Estas vistas son absolutamente impresionantes. Lo escarpado del cañón, la arenisca roja y todos los estratos que se ven en las montañas.
 
-[![Si con todo lo que os he contado, no queréis una multipropiedad aquí en el Cañón, no sé qué más deciros](/content/images/2014/09/blog-grand-canyon.jpg#small)](/content/images/2014/09/blog-grand-canyon.jpg#full)
+[![Si con todo lo que os he contado, no queréis una multipropiedad aquí en el Cañón, no sé qué más deciros](/images/2014/09/blog-grand-canyon.jpg#small)](/images/2014/09/blog-grand-canyon.jpg#full)
 Si con todo lo que os he contado, no queréis una multipropiedad aquí en el Cañón, no sé qué más deciros
 
 ¿Os he dicho también ya que había una mina de uranio en el Cañón? Pues yo ahora soy verde fosforescente y puedo leer las mentes. Y también puedo leer libros.
 
 Cuesta mucho describir un sitio que genera tantas sensaciones; el cañón es enorme y en su magnitud radica su belleza, pero hay que vivirlo. Incluso con el terrible calor que ha hecho, era imposible no disfrutar de la visita.
 
-[![Tanta belleza junta en una foto: monumento de la naturaleza, y el Gran Cañón detrás XD](/content/images/2014/09/blog-selfie1.jpg#small)](/content/images/2014/09/blog-selfie1.jpg#full)
+[![Tanta belleza junta en una foto: monumento de la naturaleza, y el Gran Cañón detrás XD](/images/2014/09/blog-selfie1.jpg#small)](/images/2014/09/blog-selfie1.jpg#full)
 Tanta belleza junta en una foto: monumento de la naturaleza, y el Gran Cañón detrás XD
 
 Mañana, super panorámica del cañón desde el aire y ya vamos a por el final del viaje…

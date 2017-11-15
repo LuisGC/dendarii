@@ -13,9 +13,9 @@ Hoy tocaba ruta por chateaux y pueblées cátaros. <del>Según asomaban los prim
 
 Hemos tenido que negociar esto puesto que la abadía fue un bastión anti-cátaro, y nosotros aquí veníamos a catarizar y claro… Pero al final he claudicado y nos hemos ido hasta la Fuenfría. La abadía ha resultado ser una visita muy recomendable, con la guía en francés mirándome como si fuera monguer por no entenderle nada.
 
-– voulez trousez levié casugnican?  
- – Alex, no le entiendo nada  
- – Te pregunta si reconoces la marca del cantero en las flores de acanto  
+– voulez trousez levié casugnican?
+ – Alex, no le entiendo nada
+ – Te pregunta si reconoces la marca del cantero en las flores de acanto
  – guí, guí – Hombrefaltaríamás u.u
 
 <figure>
@@ -34,9 +34,9 @@ Ostia, que se me ha olvidado el pan abajo…
 
 Desde Quéribus, solo podíamos volver sobre nuestros pasos o llegar haciendo la croqueta hasta Payperview, así que he puesto mirada asesina a Alex y hemos llegado al castillo. Enorme. Gigante. Al igual que Quéribus, no está acondicionado, salvo un par de cuerdas y alguna reja en las partes peligrosas. Las zonas realmente peligrosas tienen un cartel de “prohibido el paso”. No está nada restaurado así que queda una visita muy agreste en comparación con la urbanidad dotada a Carcassone.
 
-[![- ey, ¿conquistamos el castillo? - uff, qué pereza](/content/images/2013/12/payperview.jpg#small)](/content/images/2013/12/payperview.jpg#full)– ey, ¿conquistamos el castillo? – uff, qué pereza
+[![- ey, ¿conquistamos el castillo? - uff, qué pereza](/images/2013/12/payperview.jpg#small)](/images/2013/12/payperview.jpg#full)– ey, ¿conquistamos el castillo? – uff, qué pereza
 
 Después era ya tardísimo (como las 17:30), así que hemos cogido el coche de vuelta, pasando por más pueblos y tomando algún que otro café. Después hemos ido a cenar a un sitio donde había una señora con gafas de sol, sombrero, abrigo y bolso colgado atendiendo. Ha sido muy random y no me creeriáis, como la mitad de las cosas que cuento.
 
-Mañana toca la zona oeste del país cátaro. Y en algún momento volveremos a casa, pero con suerte no 
+Mañana toca la zona oeste del país cátaro. Y en algún momento volveremos a casa, pero con suerte no
 

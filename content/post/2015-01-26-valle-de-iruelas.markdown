@@ -3,7 +3,7 @@ author: yamila
 date: 2015-01-26T21:16:38.000Z
 slug: valle-de-iruelas
 title: Valle de Iruelas
-thumbnailImage: /content/images/2015/01/IMG_20150110_131721_blog.jpg
+thumbnailImage: /images/2015/01/IMG_20150110_131721_blog.jpg
 tags:
 - Senderismo
 - Valle de Iruelas
@@ -12,7 +12,7 @@ tags:
 
 Breve escapada al Valle de Iruelas, un lugar muy recomendado y ¡muy recomendable! Unos amigos geocachers habían puesto allí un [caché](http:/www.geocaching.com/geocache/GC5JA47_burguillo-on-the-rocks), y fue la excusa perfecta para conocer el valle, y para conseguir mi primer [FTF](http:/www.geocaching.com/seek/log.aspx?LUID=1b8b55f4-edb9-4d2e-9027-9dbfd7e03369)
 
-[![IMG_20150110_131721_blog](/content/images/2015/01/IMG_20150110_131721_blog.jpg#full)](/content/images/2015/01/IMG_20150110_131721_blog.jpg#small)
+[![IMG_20150110_131721_blog](/images/2015/01/IMG_20150110_131721_blog.jpg#full)](/images/2015/01/IMG_20150110_131721_blog.jpg#small)
 Vistas desde el caché :)
 
 

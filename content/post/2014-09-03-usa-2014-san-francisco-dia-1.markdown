@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-03T04:28:15.000Z
 slug: usa-2014-san-francisco-dia-1
 title: USA 2014- San Francisco (día 1)
-thumbnailImage: /content/images/2014/09/pagoda1.jpg
+thumbnailImage: /images/2014/09/pagoda1.jpg
 tags:
 - USA
 ---
@@ -19,23 +19,23 @@ Como habíamos llegado pronto, nos fuimos a tantear la zona empezando por un eno
 
 Tiene también un jardín japonés (8$ cada uno) con ardillas norteamericanas como señal del tratado de paz de 1951.
 
-[![Apartamento cozy, coqueto y luminoso. Bien comunicado.](/content/images/2014/09/pagoda1.jpg#small)](/content/images/2014/09/pagoda1.jpg#full)
+[![Apartamento cozy, coqueto y luminoso. Bien comunicado.](/images/2014/09/pagoda1.jpg#small)](/images/2014/09/pagoda1.jpg#full)
 Apartamento cozy, coqueto y luminoso. Bien comunicado.
 
 En el jardín aprovechamos para tomarnos un té helado con “frutos secos japoneses” (a.k.a., cartón) que incluían dos galletas de la suerte:
 
-[![¿Aceptas las cookies? Si no, ya te estás pirando a otro blog de viajes...](/content/images/2014/09/cookies.jpg#small)](/content/images/2014/09/cookies.jpg#full)¿Aceptas las cookies? Si no, ya te estás pirando a otro blog de viajes…
+[![¿Aceptas las cookies? Si no, ya te estás pirando a otro blog de viajes...](/images/2014/09/cookies.jpg#small)](/images/2014/09/cookies.jpg#full)¿Aceptas las cookies? Si no, ya te estás pirando a otro blog de viajes…
 
 La galleta de la izquierda le tocó a Alex: “Algo maravilloso está a punto de sucederte”. La fortuna de la derecha me tocó a mí: “La calidad importa más que la cantidad. Haz un buen trabajo mañana”. Sí, es lo que estáis pensando: ¡menuda castaña de buena fortuna! Pedí que me devolvieran mi dinero. Quemé los documentos de paz de 1951 y les hice un calvo a los de la tetería. Salimos pitando de allí.
 
 Fuera ya del jardín japonés, de pronto algo nos resultó familiar y montamos en un momento un “Españoles por el mundo”:
 
-[![Nos llevó a su restaurante español donde dan tortilla a precio de oro. Está forradísimo y echa mucho de menos su Albacete natal.](/content/images/2014/09/espanoles.jpg#small)](/content/images/2014/09/espanoles.jpg#full)
+[![Nos llevó a su restaurante español donde dan tortilla a precio de oro. Está forradísimo y echa mucho de menos su Albacete natal.](/images/2014/09/espanoles.jpg#small)](/images/2014/09/espanoles.jpg#full)
 Nos llevó a su restaurante español donde dan tortilla a precio de oro. Está forradísimo y echa mucho de menos su Albacete natal.
 
 Como toma de contacto con la ciudad no estuvo mal. De ahí nos fuimos paseando hasta Alamo Square, donde están las famosas *Painted ladies* que a todos os sonará por [Padres forzosos](https:/www.youtube.com/watch?v=k-NTGnxZ4xI)
 
-[![Bob Saget fue un secundario mediocre pero un agente inmobiliario buenísimo...](/content/images/2014/09/painted-ladies.jpg#small)](/content/images/2014/09/painted-ladies.jpg#full)
+[![Bob Saget fue un secundario mediocre pero un agente inmobiliario buenísimo...](/images/2014/09/painted-ladies.jpg#small)](/images/2014/09/painted-ladies.jpg#full)
 Bob Saget fue un secundario mediocre pero un agente inmobiliario buenísimo…
 
 En San Francisco se cena a partir de las 19 y hasta la 1 (según los horarios de los restaurantes); genial para nuestros horarios españoles. Total, que después de comer bastante mal en Atlanta, nos fuimos a un árabe con muy buena pinta donde cenamos tranquilos y a las 22 yo estaba tan reventada que caí rendida…

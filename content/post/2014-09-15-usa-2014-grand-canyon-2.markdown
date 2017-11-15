@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-15T07:30:49.000Z
 slug: usa-2014-grand-canyon-2
 title: USA 2014- Grand Canyon (2)
-thumbnailImage: /content/images/2014/09/blog2-grand-canyon.jpg
+thumbnailImage: /images/2014/09/blog2-grand-canyon.jpg
 tags:
 - USA
 ---
@@ -15,12 +15,12 @@ Hicimos la [ruta imperial de Papillon](http:/es.papillon.com/grand-canyon-nation
 
 Y ha sido una pasada, al entrar en la zona del Cañón, nos han puesto a Strauss y nosotros sobrevolando el Colorado como monos en torno a un tótem. He sacado fotos y he hecho vídeos, pero por supuesto, hay que vivirlo; ha sido una super actividad. Os paso el track de la ruta que hemos hecho:
 
-[![Es como la Muralla China; no sé si se puede ver desde el espacio, pero sí se puede ver desde un helicóptero.](/content/images/2014/09/blog2-helicoptero.png)](/content/images/2014/09/blog2-helicoptero.png)
+[![Es como la Muralla China; no sé si se puede ver desde el espacio, pero sí se puede ver desde un helicóptero.](/images/2014/09/blog2-helicoptero.png)](/images/2014/09/blog2-helicoptero.png)
 Es como la Muralla China; no sé si se puede ver desde el espacio, pero sí se puede ver desde un helicóptero.
 
-Hasta hemos visto una manada de bisontes salvajes. Y aunque mis fotos no le hagan justicia, con esta os hacéis una idea y os ponéis verdes de envidia a partes iguales 
+Hasta hemos visto una manada de bisontes salvajes. Y aunque mis fotos no le hagan justicia, con esta os hacéis una idea y os ponéis verdes de envidia a partes iguales
 
-[![Os dije que el río no es colorado sino verdoso-marroncio...](/content/images/2014/09/blog2-grand-canyon.jpg#small)](/content/images/2014/09/blog2-grand-canyon.jpg#full)
+[![Os dije que el río no es colorado sino verdoso-marroncio...](/images/2014/09/blog2-grand-canyon.jpg#small)](/images/2014/09/blog2-grand-canyon.jpg#full)
 Os dije que el río no es colorado sino verdoso-marroncio…
 
 Cuando terminamos, entramos de nuevo en el Parque Nacional y fuimos hasta el extremo este, Dessert View. Unas vistas muy bonitas, pero me ha chafado un poco que había también un reclamo de “edificio antiguo indio”, y resulta que sí, era antiguo (estándares americanos), pero era una imitación (vieja) de algo inidio… Me la han colado doblada…
@@ -33,7 +33,7 @@ Al igual que otros parques, Gran Cañón es muy manejable: está todo muy bien s
 
 Y el selfie del día… (que sé que lo estábais esperando, que mis fans imaginarios me dicen que os encantan los selfies que pongo… ) una sorpresa que seguro que no os esperáis:
 
-[![¡Nosotros en el cañón! Seguro que no os lo esperabais, SEGURO.](/content/images/2014/09/blog2-selfie.jpg#small)](/content/images/2014/09/blog2-selfie.jpg#full)¡Nosotros en el cañón! Seguro que no os lo esperabais, SEGURO. Es mi viaje y mi blog: os aguantáis.
+[![¡Nosotros en el cañón! Seguro que no os lo esperabais, SEGURO.](/images/2014/09/blog2-selfie.jpg#small)](/images/2014/09/blog2-selfie.jpg#full)¡Nosotros en el cañón! Seguro que no os lo esperabais, SEGURO. Es mi viaje y mi blog: os aguantáis.
 
 Mañana cogemos la ruta 66 y nos vamos hacia la última parada del viaje: ¡Las Vegas!
 
