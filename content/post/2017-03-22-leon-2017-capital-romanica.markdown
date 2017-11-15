@@ -3,7 +3,7 @@ author: yamila
 date: 2017-03-22T21:23:33.442Z
 slug: leon-2017-capital-romanica
 title: León 2017- capital románica
-image: https://c1.staticflickr.com/4/3827/33465317191_ed8099267d_c.jpg
+thumbnailImage: https://c1.staticflickr.com/4/3827/33465317191_ed8099267d_c.jpg
 
 ---
 

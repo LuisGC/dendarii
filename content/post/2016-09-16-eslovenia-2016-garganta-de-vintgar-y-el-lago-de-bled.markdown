@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-16T20:27:47.573Z
 slug: eslovenia-2016-garganta-de-vintgar-y-el-lago-de-bled
 title: Eslovenia 2016- Garganta de Vintgar y el lago de Bled
-image: https://c1.staticflickr.com/9/8883/29613643312_67d2b6744d_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8883/29613643312_67d2b6744d_c.jpg
 tags:
 - Eslovenia
 ---

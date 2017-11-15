@@ -3,7 +3,7 @@ author: yamila
 date: 2012-08-22T14:40:46.000Z
 slug: portugal-v-a-ver-quien-la-tiene-mas-larga
 title: Portugal V- A ver quién la tiene más larga
-image: /content/images/2012/08/biblioteca-joanina-da-universidade-de-coimbra2.jpg
+thumbnailImage: /content/images/2012/08/biblioteca-joanina-da-universidade-de-coimbra2.jpg
 tags:
 - Coimbra
 - Lisboa

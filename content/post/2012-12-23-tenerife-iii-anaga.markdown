@@ -3,7 +3,7 @@ author: yamila
 date: 2012-12-23T15:49:48.000Z
 slug: tenerife-iii-anaga
 title: Tenerife III- Anaga
-image: /content/images/2012/12/anaga1.jpg
+thumbnailImage: /content/images/2012/12/anaga1.jpg
 tags:
 - Tenerife
 ---

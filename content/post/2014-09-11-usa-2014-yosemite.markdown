@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-11T07:08:44.000Z
 slug: usa-2014-yosemite
 title: USA 2014- Yosemite
-image: /content/images/2014/09/blog-tunel-view.jpg
+thumbnailImage: /content/images/2014/09/blog-tunel-view.jpg
 tags:
 - USA
 ---

@@ -3,7 +3,7 @@ author: yamila
 date: 2015-08-29T18:40:20.278Z
 slug: suiza-2015-ginebra-lausana-y-castillo-de-chillon
 title: Suiza 2015- Ginebra, Lausana y Castillo de Chillon
-image: http://c1.staticflickr.com/1/577/20794499218_bf9b67d4af_z.jpg
+thumbnailImage: http://c1.staticflickr.com/1/577/20794499218_bf9b67d4af_z.jpg
 tags:
 - Suiza
 ---

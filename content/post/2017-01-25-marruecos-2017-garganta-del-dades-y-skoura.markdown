@@ -3,7 +3,7 @@ author: yamila
 date: 2017-01-25T19:19:10.402Z
 slug: marruecos-2017-garganta-del-dades-y-skoura
 title: Marruecos 2017- Garganta del Dades y Skoura
-image: https://c1.staticflickr.com/1/271/31703568643_b356112161_c.jpg
+thumbnailImage: https://c1.staticflickr.com/1/271/31703568643_b356112161_c.jpg
 tags:
 - Marruecos
 ---

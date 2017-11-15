@@ -3,7 +3,7 @@ author: yamila
 date: 2015-01-08T21:02:58.000Z
 slug: burdeos-landas-aquitania
 title: Burdeos, Landas, Aquitania
-image: https:/farm8.staticflickr.com/7417/16187410238_2c55309836_z.jpg
+thumbnailImage: https:/farm8.staticflickr.com/7417/16187410238_2c55309836_z.jpg
 tags:
 - Landas
 ---

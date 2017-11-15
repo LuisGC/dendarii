@@ -3,7 +3,7 @@ author: yamila
 date: 2017-04-10T22:03:05.740Z
 slug: hoya-de-san-blas
 title: Hoya de San Blas
-image: https://c1.staticflickr.com/4/3941/33962098025_06a2feb415.jpg
+thumbnailImage: https://c1.staticflickr.com/4/3941/33962098025_06a2feb415.jpg
 tags:
 - Senderismo
 ---

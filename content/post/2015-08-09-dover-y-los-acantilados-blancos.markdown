@@ -3,7 +3,7 @@ author: yamila
 date: 2015-08-09T16:20:10.559Z
 slug: dover-y-los-acantilados-blancos
 title: Dover y los acantilados blancos
-image: http://c1.staticflickr.com/1/273/20404162026_f8cddc4d85_z.jpg
+thumbnailImage: http://c1.staticflickr.com/1/273/20404162026_f8cddc4d85_z.jpg
 tags:
 - Inglaterra
 - Dover

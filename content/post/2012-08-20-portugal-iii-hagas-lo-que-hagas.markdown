@@ -3,7 +3,7 @@ author: yamila
 date: 2012-08-20T08:37:48.000Z
 slug: portugal-iii-hagas-lo-que-hagas
 title: Portugal III- Hagas lo que hagas...
-image: /content/images/2012/08/p1030627.jpg
+thumbnailImage: /content/images/2012/08/p1030627.jpg
 tags:
 - Braga
 - Guimaraes

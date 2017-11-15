@@ -3,7 +3,7 @@ author: yamila
 date: 2012-08-20T21:54:59.000Z
 slug: portugal-iv-2-erase-una-vez-version-marta
 title: Portugal IV-2- Érase una vez (versión Marta)
-image: None
+thumbnailImage: None
 tags:
 - Peneda Gerés
 - Portugal

@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-17T06:44:22.000Z
 slug: usa-2014-fin
 title: USA 2014- Fin
-image: /content/images/2014/09/blog-ruta66.jpg
+thumbnailImage: /content/images/2014/09/blog-ruta66.jpg
 tags:
 - USA
 ---

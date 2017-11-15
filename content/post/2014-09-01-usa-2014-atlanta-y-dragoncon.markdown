@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-01T22:43:10.000Z
 slug: usa-2014-atlanta-y-dragoncon
 title: USA 2014- Atlanta y DragonCon
-image: /content/images/2014/09/fruta.jpg
+thumbnailImage: /content/images/2014/09/fruta.jpg
 tags:
 - USA
 ---

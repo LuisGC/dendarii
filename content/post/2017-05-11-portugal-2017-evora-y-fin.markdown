@@ -3,7 +3,7 @@ author: yamila
 date: 2017-05-11T20:55:00.294Z
 slug: portugal-2017-evora-y-fin
 title: Portugal 2017- Évora y fin
-image: https://c1.staticflickr.com/3/2866/34320305561_51eaf6a493_c.jpg
+thumbnailImage: https://c1.staticflickr.com/3/2866/34320305561_51eaf6a493_c.jpg
 tags:
 - Évora
 - Portugal

@@ -3,7 +3,7 @@ author: yamila
 date: 2017-01-25T18:40:13.221Z
 slug: marruecos-2017-uarzazate-y-ait-ben-haddou
 title: Marruecos 2017- Uarzazate y Ait Ben Haddou
-image: https://c1.staticflickr.com/1/547/32515106915_3119bbf96c_c.jpg
+thumbnailImage: https://c1.staticflickr.com/1/547/32515106915_3119bbf96c_c.jpg
 tags:
 - Marruecos
 ---

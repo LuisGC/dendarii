@@ -3,7 +3,7 @@ author: yamila
 date: 2017-01-25T19:05:19.967Z
 slug: marruecos-2017-mhamid-erg-chegaga
 title: Marruecos 2017- Mhamid, Erg Chegaga
-image: https://c1.staticflickr.com/1/701/31671763184_fdffda7cc9_c.jpg
+thumbnailImage: https://c1.staticflickr.com/1/701/31671763184_fdffda7cc9_c.jpg
 tags:
 - Marruecos
 ---

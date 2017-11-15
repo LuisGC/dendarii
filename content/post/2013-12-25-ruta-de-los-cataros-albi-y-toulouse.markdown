@@ -3,7 +3,7 @@ author: yamila
 date: 2013-12-25T23:15:14.000Z
 slug: ruta-de-los-cataros-albi-y-toulouse
 title: Ruta de los Cátaros- Albi y Toulouse
-image: /content/images/2013/12/albi.jpg
+thumbnailImage: /content/images/2013/12/albi.jpg
 tags:
 - Albi
 - Cátaros

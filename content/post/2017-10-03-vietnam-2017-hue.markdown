@@ -3,7 +3,7 @@ author: yamila
 date: 2017-10-03T19:00:00.000Z
 slug: vietnam-2017-hue
 title: Vietnam 2017 - Hoi An
-image: https://farm5.staticflickr.com/4506/36765458344_77ff7ac0f2_c.jpg
+thumbnailImage: https://farm5.staticflickr.com/4506/36765458344_77ff7ac0f2_c.jpg
 tags:
 - Vietnam
 ---

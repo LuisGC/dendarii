@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-25T11:25:59.995Z
 slug: eslovenia-2016-tolmin-kozjak-e-idrija
 title: Eslovenia 2016- Tolmin, Kozjak e Idrija
-image: https://c1.staticflickr.com/9/8060/29287780704_a30cc1e213_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8060/29287780704_a30cc1e213_c.jpg
 tags:
 - Eslovenia
 ---

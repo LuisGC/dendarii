@@ -3,7 +3,7 @@ author: yamila
 date: 2016-03-27T19:30:32.336Z
 slug: semana-santa-2016-la-pradera-de-navalhondo
 title: Semana Santa 2016- La Pradera de Navalhondo
-image: http://c4.staticflickr.com/2/1535/26004524891_1ea29ce3b3_c.jpg
+thumbnailImage: http://c4.staticflickr.com/2/1535/26004524891_1ea29ce3b3_c.jpg
 
 ---
 

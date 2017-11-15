@@ -3,7 +3,7 @@ author: yamila
 date: 2015-09-06T21:24:18.196Z
 slug: suiza-2015-parque-nacional-de-suiza
 title: Suiza 2015- Parque Nacional de Suiza
-image: http://c2.staticflickr.com/6/5754/21172464576_72d66dd5e6_z.jpg
+thumbnailImage: http://c2.staticflickr.com/6/5754/21172464576_72d66dd5e6_z.jpg
 tags:
 - Suiza
 ---

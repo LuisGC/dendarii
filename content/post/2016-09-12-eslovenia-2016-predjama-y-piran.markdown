@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-12T21:14:54.436Z
 slug: eslovenia-2016-predjama-y-piran
 title: Eslovenia 2016- Postojna, Predjama y Piran
-image: https://c1.staticflickr.com/9/8087/29015632893_76b2e81900_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8087/29015632893_76b2e81900_c.jpg
 tags:
 - Eslovenia
 ---

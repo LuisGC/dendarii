@@ -3,7 +3,7 @@ author: yamila
 date: 2017-10-07T19:00:00.000Z
 slug: vietnam-2017-parque-nacional-phong-nha-ke-bang
 title: Vietnam 2017 - Parque Nacional Phong Nha Ke Bang
-image: https://farm5.staticflickr.com/4513/36878492513_76a7e091c5_c.jpg
+thumbnailImage: https://farm5.staticflickr.com/4513/36878492513_76a7e091c5_c.jpg
 tags:
 - Vietnam
 - Cuevas

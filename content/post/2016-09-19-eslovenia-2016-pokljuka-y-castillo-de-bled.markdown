@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-19T19:23:41.623Z
 slug: eslovenia-2016-pokljuka-y-castillo-de-bled
 title: Eslovenia 2016- Pokljuka y Castillo de Bled
-image: https://c1.staticflickr.com/9/8506/29713029711_1f600cc2a0_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8506/29713029711_1f600cc2a0_c.jpg
 tags:
 - Eslovenia
 ---

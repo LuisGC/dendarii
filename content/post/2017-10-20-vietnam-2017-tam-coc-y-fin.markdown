@@ -3,9 +3,7 @@ author: yamila
 date: 2017-10-20T19:00:00.000Z
 slug: vietnam-2017-tam-coc-y-fin
 title: Vietnam 2017 - Tam Coc y fin
-image: https://farm5.staticflickr.com/4486/37763824776_a5e3af832b_c.jpg
 thumbnailImage: https://farm5.staticflickr.com/4486/37763824776_a5e3af832b_c.jpg
-thumbnailImagePosition: top
 tags:
 - Vietnam
 - Cuevas
@@ -15,7 +13,7 @@ tags:
 
 <!--more-->
 
-Tam Coc, en la región de Ninh Binh, al sur de Hanoi, es una zona de arrozales y canales que se visitan en barquita empujada de forma muy característica con los pies.
+Tam Coc, en la región de Ninh Binh, al sur de Hanoi, es una zona de arrozales y canales que se visitan en barquita empujada de forma muy característica con los pies. 
 
 ![Los canales de Tam Coc](https://c1.staticflickr.com/5/4462/37812227971_9f8a776fc3_o.jpg#full)
 

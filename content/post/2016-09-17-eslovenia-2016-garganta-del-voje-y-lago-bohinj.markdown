@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-17T20:47:06.120Z
 slug: eslovenia-2016-garganta-del-voje-y-lago-bohinj
 title: Eslovenia 2016- Garganta del Voje y lago Bohinj
-image: https://c1.staticflickr.com/9/8357/29745359465_8b99e849a4_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8357/29745359465_8b99e849a4_c.jpg
 tags:
 - Eslovenia
 ---

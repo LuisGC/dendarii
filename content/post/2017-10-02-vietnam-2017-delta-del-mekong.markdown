@@ -3,7 +3,7 @@ author: yamila
 date: 2017-10-02T19:00:00.000Z
 slug: vietnam-2017-delta-del-mekong
 title: Vietnam 2017 - Delta del Mekong
-image: https://farm5.staticflickr.com/4422/36783165223_343b2ffda4_c.jpg
+thumbnailImage: https://farm5.staticflickr.com/4422/36783165223_343b2ffda4_c.jpg
 tags:
 - Vietnam
 ---

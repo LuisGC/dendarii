@@ -3,7 +3,7 @@ author: yamila
 date: 2017-01-25T18:55:22.775Z
 slug: marruecos-2017-valle-del-draa
 title: Marruecos 2017- Valle del Dráa
-image: https://c1.staticflickr.com/1/330/32515164155_e2c923aa98_c.jpg
+thumbnailImage: https://c1.staticflickr.com/1/330/32515164155_e2c923aa98_c.jpg
 tags:
 - Marruecos
 ---

@@ -3,7 +3,7 @@ author: yamila
 date: 2016-04-30T21:11:14.469Z
 slug: comarca-de-liebana-y-picos-de-europa-nos-vamos-de-potes
 title: Comarca de Liébana y Picos de Europa- Nos vamos de Potes
-image: http://c4.staticflickr.com/2/1527/26736104555_110c005d90_c.jpg
+thumbnailImage: http://c4.staticflickr.com/2/1527/26736104555_110c005d90_c.jpg
 
 ---
 

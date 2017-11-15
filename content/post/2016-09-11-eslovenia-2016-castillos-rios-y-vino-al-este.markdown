@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-11T21:30:28.316Z
 slug: eslovenia-2016-castillos-rios-y-vino-al-este
 title: Eslovenia 2016- castillos, ríos y vino al este
-image: https://c1.staticflickr.com/9/8414/29533900931_26b14b4f10_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8414/29533900931_26b14b4f10_c.jpg
 tags:
 - Eslovenia
 ---

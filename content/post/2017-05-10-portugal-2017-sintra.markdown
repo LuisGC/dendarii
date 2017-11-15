@@ -3,7 +3,7 @@ author: yamila
 date: 2017-05-10T21:53:41.074Z
 slug: portugal-2017-sintra
 title: Portugal 2017- Sintra
-image: https://c1.staticflickr.com/5/4183/33608590294_7fc813d211_c.jpg
+thumbnailImage: https://c1.staticflickr.com/5/4183/33608590294_7fc813d211_c.jpg
 tags:
 - Portugal
 - Sintra

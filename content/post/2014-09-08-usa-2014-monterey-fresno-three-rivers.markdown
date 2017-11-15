@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-08T04:55:08.000Z
 slug: usa-2014-monterey-fresno-three-rivers
 title: USA 2014- Monterey - Fresno - Three Rivers
-image: /content/images/2014/09/blog-check-atlantico.jpg
+thumbnailImage: /content/images/2014/09/blog-check-atlantico.jpg
 tags:
 - USA
 ---

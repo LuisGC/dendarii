@@ -3,7 +3,7 @@ author: yamila
 date: 2015-08-31T20:45:04.233Z
 slug: suiza-2015-matterhorn-y-aletsch
 title: Suiza 2015- Matterhorn y Aletsch
-image: http://c1.staticflickr.com/1/710/20853291870_f8fee91a75_b.jpg
+thumbnailImage: http://c1.staticflickr.com/1/710/20853291870_f8fee91a75_b.jpg
 tags:
 - Suiza
 ---

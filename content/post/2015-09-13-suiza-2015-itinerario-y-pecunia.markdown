@@ -3,7 +3,7 @@ author: yamila
 date: 2015-09-13T08:36:47.854Z
 slug: suiza-2015-itinerario-y-pecunia
 title: Suiza 2015- Itinerario y pecunia
-image: None
+thumbnailImage: None
 tags:
 - Suiza
 ---

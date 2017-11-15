@@ -3,7 +3,7 @@ author: yamila
 date: 2016-05-02T17:56:22.016Z
 slug: comarca-de-liebana-y-picos-de-europa-raquetas-y-heidi
 title: Comarca de Liébana y Picos de Europa- Raquetas y Heidi
-image: http://c1.staticflickr.com/2/1474/26751541976_992a40a45a_c.jpg
+thumbnailImage: http://c1.staticflickr.com/2/1474/26751541976_992a40a45a_c.jpg
 
 ---
 

@@ -3,7 +3,7 @@ author: yamila
 date: 2015-09-08T20:50:18.969Z
 slug: suiza-2015-en-escafusa-me-cole
 title: Suiza 2015- En Escafusa me colé
-image: http://c1.staticflickr.com/1/563/21253668695_fb8b72ce05.jpg
+thumbnailImage: http://c1.staticflickr.com/1/563/21253668695_fb8b72ce05.jpg
 tags:
 - Suiza
 ---

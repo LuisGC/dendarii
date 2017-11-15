@@ -3,7 +3,7 @@ author: yamila
 date: 2015-04-05T17:10:37.000Z
 slug: salisbury-y-stonehenge
 title: Salisbury y Stonehenge
-image: /content/images/2015/04/stonehenge2.jpg
+thumbnailImage: /content/images/2015/04/stonehenge2.jpg
 tags:
 - Salisbury
 - Inglaterra

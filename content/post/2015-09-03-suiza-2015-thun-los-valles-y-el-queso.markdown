@@ -3,7 +3,7 @@ author: yamila
 date: 2015-09-03T21:30:07.139Z
 slug: suiza-2015-thun-los-valles-y-el-queso
 title: Suiza 2015- Thun, los valles y el queso
-image: http://c2.staticflickr.com/6/5623/20933322510_587a7cbec3_z.jpg
+thumbnailImage: http://c2.staticflickr.com/6/5623/20933322510_587a7cbec3_z.jpg
 tags:
 - Suiza
 ---

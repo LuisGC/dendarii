@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-22T19:19:07.966Z
 slug: eslovenia-2016-pico-de-slemenova
 title: Eslovenia 2016- Pico de Slemenova
-image: https://c1.staticflickr.com/9/8863/29821577976_330955a563_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8863/29821577976_330955a563_c.jpg
 tags:
 - Eslovenia
 ---

@@ -3,7 +3,7 @@ author: yamila
 date: 2016-03-27T19:48:48.590Z
 slug: semana-santa-2016-chinchon-via-verde-negrin-y-colmenar-de-oreja
 title: Semana Santa 2016- Chinchón, Vía Verde Negrín y Colmenar de Oreja
-image: http://c4.staticflickr.com/2/1483/26070873075_49ef6ea489_c.jpg
+thumbnailImage: http://c4.staticflickr.com/2/1483/26070873075_49ef6ea489_c.jpg
 
 ---
 

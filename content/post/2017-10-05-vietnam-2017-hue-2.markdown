@@ -3,7 +3,7 @@ author: yamila
 date: 2017-10-05T19:00:00.000Z
 slug: vietnam-2017-hue-2
 title: Vietnam 2017 - Hue
-image: https://farm5.staticflickr.com/4514/36824795814_c4cc7644d5.jpg
+thumbnailImage: https://farm5.staticflickr.com/4514/36824795814_c4cc7644d5.jpg
 tags:
 - Vietnam
 ---

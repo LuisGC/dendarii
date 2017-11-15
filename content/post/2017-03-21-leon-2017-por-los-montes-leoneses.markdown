@@ -3,7 +3,7 @@ author: yamila
 date: 2017-03-21T22:09:18.525Z
 slug: leon-2017-por-los-montes-leoneses
 title: León 2017- Por los montes leoneses
-image: https://c1.staticflickr.com/4/3755/32732544104_7e13187355_c.jpg
+thumbnailImage: https://c1.staticflickr.com/4/3755/32732544104_7e13187355_c.jpg
 
 ---
 

@@ -3,7 +3,7 @@ author: yamila
 date: 2015-08-02T15:31:12.055Z
 slug: windmills-path-desde-hassocks-hasta-lewes
 title: Windmills path, desde Hassocks hasta Lewes
-image: //c1.staticflickr.com/1/547/20220179932_fa3dd58a2c_k.jpg
+thumbnailImage: //c1.staticflickr.com/1/547/20220179932_fa3dd58a2c_k.jpg
 tags:
 - Senderismo
 - Windmills

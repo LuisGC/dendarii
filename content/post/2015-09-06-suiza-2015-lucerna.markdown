@@ -3,7 +3,7 @@ author: yamila
 date: 2015-09-06T20:49:31.779Z
 slug: suiza-2015-lucerna
 title: Suiza 2015- Lucerna
-image: http://c1.staticflickr.com/1/745/20576046194_f34edfa92b_z.jpg
+thumbnailImage: http://c1.staticflickr.com/1/745/20576046194_f34edfa92b_z.jpg
 tags:
 - Suiza
 ---

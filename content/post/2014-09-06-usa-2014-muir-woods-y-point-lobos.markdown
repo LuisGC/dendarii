@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-06T15:46:07.000Z
 slug: usa-2014-muir-woods-y-point-lobos
 title: USA 2014- Muir Woods y Point Lobos
-image: /content/images/2014/09/totx.jpg
+thumbnailImage: /content/images/2014/09/totx.jpg
 tags:
 - USA
 ---

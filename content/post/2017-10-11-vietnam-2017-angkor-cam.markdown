@@ -3,7 +3,8 @@ author: yamila
 date: 2017-10-11T19:00:00.000Z
 slug: vietnam-2017-angkor-cam
 title: Vietnam 2017 - Angkor (Camboya)
-image: https://farm5.staticflickr.com/4500/37436814250_c93f1ee599_o.jpg
+thumbnailImage: https://farm5.staticflickr.com/4500/37436814250_c93f1ee599_o.jpg
+thumbnailImagePosition: right
 tags:
 - Vietnam
 - Camboya
@@ -34,7 +35,7 @@ El primer día hicimos el Circuito pequeño, que pasa por Angkor Tomh, Angkor Wa
 <img src="https://farm5.staticflickr.com/4510/37694840821_78ac11e4f1_c.jpg" alt="Detalle de arqueros en una pared" />
 </figure>
 
-El segundo día empezó a las 4am para ir a ver cómo amanece detrás de Angkor Wat y cómos se refleja en el lago que está en la entrada del templo. Los amaneceres funcionan un poco como los atardeceres, pero encima en Vietnam hay que madrugar mucho. Lo cierto es que fue muy bonito ver emerger el templo de la oscuridad. 
+El segundo día empezó a las 4am para ir a ver cómo amanece detrás de Angkor Wat y cómos se refleja en el lago que está en la entrada del templo. Los amaneceres funcionan un poco como los atardeceres, pero encima en Vietnam hay que madrugar mucho. Lo cierto es que fue muy bonito ver emerger el templo de la oscuridad.
 
 <figure>
 <img src="https://farm5.staticflickr.com/4486/37024154603_421f0011d8_c.jpg" alt="Angkor Wat reflejándose en el lago" />
@@ -64,7 +65,7 @@ También tuvimos ocasión de visitar otros templos más alejados del complejo de
 
 Como disponíamos de tiempo, decidimos entrar en el Museo de las Minas. Lo montó hace unos años <a href="https://en.wikipedia.org/wiki/Aki_Ra" target="_new">Aki Ra</a>, un antiguo niño soldado de los jemeres rojos, que desde pequeño era muy bueno "poniendo minas terrestres"; años después se pasó al ejército vietnamita para luchar contra los jemeres rojos. Y hace unos años dejó la carrera militar para dedicarse a desarmar minas en Camboya. Se estima que hay entre 3 y 6 millones de minas sin detonar en Camboya y por supuesto, no existe un mapa detallado de las zonas que hay que evitar. Aki Ra empezó yendo de pueblo en pueblo usando su habilidad montando minas para desarmarlas y despejar pueblos. A día de hoy tiene una ONG con camboyanos y camboyanas entrenadas en despejar tierra. En el museo hemos encontrado un ex-militar americano que lleva 15 años ayudando con el museo y la ONG, y a su mujer, que lleva otros tantos dando clases de inglés en el colegio que montó Aki Ra. Dos datos que me tocaron especialmente y que hay que ver en conjunto:
 
-- se estima que se tardará unos 100 años en despejar Camboya de minas (de 3 a 6 millones de minas) con los medios actuales. Y unos 300 en despejar Vietnam. 
+- se estima que se tardará unos 100 años en despejar Camboya de minas (de 3 a 6 millones de minas) con los medios actuales. Y unos 300 en despejar Vietnam.
 - tras la IIWW en Europa había unos 95 millones de minas y bombas que se despejaron en unos 20 años; aún quedan algunas pero esencialmente no es un problema, a diferencia de Vietnam y Camboya donde es peligroso salirse de los caminos.
 
 <figure>

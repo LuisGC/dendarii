@@ -3,7 +3,7 @@ author: yamila
 date: 2013-12-28T23:50:40.000Z
 slug: ruta-de-los-cataros-le-route
 title: Ruta de los Cátaros- le routé
-image: http://upload.wikimedia.org/wikipedia/commons/f/ff/Abbaye-senanque-gordes-iso.jpg
+thumbnailImage: http://upload.wikimedia.org/wikipedia/commons/f/ff/Abbaye-senanque-gordes-iso.jpg
 tags:
 - Cátaros
 ---

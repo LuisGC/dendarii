@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-08T05:43:31.000Z
 slug: usa-2014-sequoia-national-park
 title: USA 2014- Sequoia National Park
-image: /content/images/2014/09/blog-altura.jpg
+thumbnailImage: /content/images/2014/09/blog-altura.jpg
 tags:
 - USA
 ---

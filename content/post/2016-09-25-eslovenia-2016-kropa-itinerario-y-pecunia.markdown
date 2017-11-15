@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-25T19:57:45.375Z
 slug: eslovenia-2016-kropa-itinerario-y-pecunia
 title: Eslovenia 2016- Kropa, itinerario y pecunia
-image: https://c1.staticflickr.com/9/8464/29546902190_7c1e059a01_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8464/29546902190_7c1e059a01_c.jpg
 tags:
 - Eslovenia
 ---

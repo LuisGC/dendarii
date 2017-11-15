@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-22T18:44:11.757Z
 slug: eslovenia-2016-paso-de-vrsic-y
 title: Eslovenia 2016- Paso de Vrsič y Valle del Río Soča
-image: https://c1.staticflickr.com/9/8547/29214318183_dfc6db79eb_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8547/29214318183_dfc6db79eb_c.jpg
 tags:
 - Eslovenia
 ---

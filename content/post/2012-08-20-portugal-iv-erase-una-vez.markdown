@@ -3,7 +3,7 @@ author: yamila
 date: 2012-08-20T21:52:21.000Z
 slug: portugal-iv-erase-una-vez
 title: Portugal IV- Érase una vez
-image: /content/images/2012/08/p1030666.jpg
+thumbnailImage: /content/images/2012/08/p1030666.jpg
 tags:
 - Peneda Gerés
 - Portugal

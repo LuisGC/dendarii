@@ -3,7 +3,7 @@ author: yamila
 date: 2017-01-25T18:29:53.626Z
 slug: marruecos-2017-valle-de-ourika
 title: Marruecos 2017- Valle de Ourika
-image: https://c1.staticflickr.com/1/746/31671565404_e02b20a726_c.jpg
+thumbnailImage: https://c1.staticflickr.com/1/746/31671565404_e02b20a726_c.jpg
 tags:
 - Marruecos
 ---

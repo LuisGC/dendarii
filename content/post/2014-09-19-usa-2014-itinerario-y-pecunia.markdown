@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-19T16:20:38.000Z
 slug: usa-2014-itinerario-y-pecunia
 title: USA 2014- Itinerario y pecunia
-image: None
+thumbnailImage: None
 tags:
 - USA
 ---

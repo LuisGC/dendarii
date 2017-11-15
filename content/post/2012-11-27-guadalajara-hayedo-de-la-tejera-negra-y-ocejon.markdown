@@ -3,7 +3,7 @@ author: yamila
 date: 2012-11-27T23:45:59.000Z
 slug: guadalajara-hayedo-de-la-tejera-negra-y-ocejon
 title: Guadalajara- Hayedo de la Tejera Negra y Ocejón
-image: /content/images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg
+thumbnailImage: /content/images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg
 tags:
 - Guadalajara
 ---

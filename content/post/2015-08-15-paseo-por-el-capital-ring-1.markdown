@@ -3,7 +3,7 @@ author: yamila
 date: 2015-08-15T15:43:58.208Z
 slug: paseo-por-el-capital-ring-1
 title: Paseo por el Capital Ring  (etapa 1)
-image: http://c1.staticflickr.com/1/608/20596949165_4d1f7618f3_c.jpg
+thumbnailImage: http://c1.staticflickr.com/1/608/20596949165_4d1f7618f3_c.jpg
 tags:
 - Senderismo
 - Capital Ring

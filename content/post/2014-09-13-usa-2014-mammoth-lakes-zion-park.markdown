@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-13T04:34:46.000Z
 slug: usa-2014-mammoth-lakes-zion-park
 title: USA 2014- Mammoth Lakes - Zion Park
-image: /content/images/2014/09/blog-entramos.jpg
+thumbnailImage: /content/images/2014/09/blog-entramos.jpg
 tags:
 - USA
 ---

@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-03T04:28:15.000Z
 slug: usa-2014-san-francisco-dia-1
 title: USA 2014- San Francisco (día 1)
-image: /content/images/2014/09/pagoda1.jpg
+thumbnailImage: /content/images/2014/09/pagoda1.jpg
 tags:
 - USA
 ---

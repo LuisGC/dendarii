@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-23T20:37:32.706Z
 slug: eslovenia-2016-parapente-desde-el-vogel-y-ruta-al-sija
 title: Eslovenia 2016- Parapente desde el Vogel y ruta al Sija
-image: https://c1.staticflickr.com/9/8773/29586971330_34891fdcd8_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8773/29586971330_34891fdcd8_c.jpg
 tags:
 - Eslovenia
 ---

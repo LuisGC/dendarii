@@ -3,7 +3,7 @@ author: yamila
 date: 2017-01-25T19:13:24.350Z
 slug: marruecos-2017-garganta-del-todra
 title: Marruecos 2017- Garganta del Todra
-image: https://c1.staticflickr.com/1/508/32362933482_ee38f1993c_c.jpg
+thumbnailImage: https://c1.staticflickr.com/1/508/32362933482_ee38f1993c_c.jpg
 tags:
 - Marruecos
 ---

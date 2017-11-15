@@ -3,7 +3,7 @@ author: yamila
 date: 2012-12-14T11:04:38.000Z
 slug: tenerife-ii-una-trampa-morta
 title: Tenerife II- una trampa mortal
-image: /content/images/2012/12/p1040888.jpg
+thumbnailImage: /content/images/2012/12/p1040888.jpg
 tags:
 - Tenerife
 ---

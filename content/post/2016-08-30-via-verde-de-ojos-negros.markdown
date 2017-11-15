@@ -3,7 +3,7 @@ author: yamila
 date: 2016-08-30T21:50:08.730Z
 slug: via-verde-de-ojos-negros
 title: Vía Verde de Ojos Negros
-image: https://c2.staticflickr.com/8/7401/27868062361_2d5d7c735c_c.jpg
+thumbnailImage: https://c2.staticflickr.com/8/7401/27868062361_2d5d7c735c_c.jpg
 
 ---
 

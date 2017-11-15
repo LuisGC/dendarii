@@ -3,7 +3,7 @@ author: yamila
 date: 2012-12-23T20:08:15.000Z
 slug: tenerife-iv-teide-y-fin
 title: Tenerife IV- Teide y fin
-image: /content/images/2012/12/teide1.jpg
+thumbnailImage: /content/images/2012/12/teide1.jpg
 tags:
 - Tenerife
 ---

@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-15T19:29:13.135Z
 slug: eslovenia-2016-skofja-loka-radovljca-y-bled
 title: Eslovenia 2016- Skofja Loka, Radovljca y Bled
-image: https://c1.staticflickr.com/9/8081/29622067751_919ec59894_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8081/29622067751_919ec59894_c.jpg
 tags:
 - Eslovenia
 ---

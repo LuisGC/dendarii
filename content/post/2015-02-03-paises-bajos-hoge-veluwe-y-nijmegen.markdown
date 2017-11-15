@@ -3,7 +3,7 @@ author: yamila
 date: 2015-02-03T21:26:24.000Z
 slug: paises-bajos-hoge-veluwe-y-nijmegen
 title: Países Bajos- Hoge Veluwe y Nijmegen
-image: /content/images/2015/02/entrance-blog.jpg
+thumbnailImage: /content/images/2015/02/entrance-blog.jpg
 tags:
 - Países Bajos
 ---

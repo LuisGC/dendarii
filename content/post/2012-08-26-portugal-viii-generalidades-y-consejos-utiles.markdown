@@ -3,7 +3,7 @@ author: yamila
 date: 2012-08-26T21:48:09.000Z
 slug: portugal-viii-generalidades-y-consejos-utiles
 title: Portugal VIII- Generalidades y consejos útiles
-image: None
+thumbnailImage: None
 tags:
 - Portugal
 ---

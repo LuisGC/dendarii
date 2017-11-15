@@ -3,7 +3,7 @@ author: yamila
 date: 2017-08-22T09:53:27.182Z
 slug: arcos-castillos-y-pastitas-de-te
 title: Arcos, castillos y pastitas de té...
-image: https://farm5.staticflickr.com/4383/36682762246_6f10ed193e.jpg
+thumbnailImage: https://farm5.staticflickr.com/4383/36682762246_6f10ed193e.jpg
 
 ---
 

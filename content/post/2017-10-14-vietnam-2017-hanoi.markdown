@@ -3,7 +3,7 @@ author: yamila
 date: 2017-10-14T19:00:00.000Z
 slug: vietnam-2017-hanoi
 title: Vietnam 2017 - Hanoi
-image: https://farm5.staticflickr.com/4452/37688900171_2a7e11e908_c.jpg
+thumbnailImage: https://farm5.staticflickr.com/4452/37688900171_2a7e11e908_c.jpg
 tags:
 - Vietnam
 ---

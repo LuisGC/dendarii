@@ -3,7 +3,7 @@ author: yamila
 date: 2015-09-11T21:55:44.744Z
 slug: suiza-2015-al-compas-del-chasseral-y-neuchatel
 title: Suiza 2015- Al compás del Chasseral y Neuchatel
-image: http://c1.staticflickr.com/1/716/21320922232_5cd7eb26bf_z.jpg
+thumbnailImage: http://c1.staticflickr.com/1/716/21320922232_5cd7eb26bf_z.jpg
 tags:
 - Suiza
 ---

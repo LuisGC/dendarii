@@ -3,7 +3,6 @@ author: yamila
 date: 2017-10-22T11:44:06.925Z
 slug: vietnam-2017-itinerario-y-pecunia
 title: Vietnam 2017 - Itinerario y pecunia
-image: https://c1.staticflickr.com/5/4493/37495802561_ddd9500e06_h.jpg
 thumbnailImage: https://c1.staticflickr.com/5/4493/37495802561_ddd9500e06_h.jpg
 thumbnailImagePosition: left
 tags:

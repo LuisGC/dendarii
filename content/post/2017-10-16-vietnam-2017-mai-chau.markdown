@@ -3,7 +3,7 @@ author: yamila
 date: 2017-10-16T19:00:00.000Z
 slug: vietnam-2017-mai-chau
 title: Vietnam 2017 - Mai Chau
-image: https://c1.staticflickr.com/5/4466/37024481174_d52ddb99b4_c.jpg
+thumbnailImage: https://c1.staticflickr.com/5/4466/37024481174_d52ddb99b4_c.jpg
 tags:
 - Vietnam
 - Cuevas

@@ -3,7 +3,7 @@ author: yamila
 date: 2015-07-05T18:02:08.596Z
 slug: escapada-senderista-a-windsor
 title: Escapada senderista a Windsor
-image: http://c1.staticflickr.com/1/452/19441661545_fb626d8a41_n.jpg
+thumbnailImage: http://c1.staticflickr.com/1/452/19441661545_fb626d8a41_n.jpg
 tags:
 - Senderismo
 - Windsor

@@ -3,7 +3,7 @@ author: yamila
 date: 2016-06-25T22:15:15.779Z
 slug: las-arribes-del-duero
 title: Las Arribes del Duero
-image: https://farm8.staticflickr.com/7331/27828381711_f815d4fe0b.jpg
+thumbnailImage: https://farm8.staticflickr.com/7331/27828381711_f815d4fe0b.jpg
 
 ---
 

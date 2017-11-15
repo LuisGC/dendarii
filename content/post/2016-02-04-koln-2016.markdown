@@ -3,7 +3,7 @@ author: yamila
 date: 2016-02-04T19:20:30.050Z
 slug: koln-2016
 title: Köln 2016
-image: https://c2.staticflickr.com/2/1484/24450571699_7201576778_c.jpg
+thumbnailImage: https://c2.staticflickr.com/2/1484/24450571699_7201576778_c.jpg
 tags:
 - Köln
 ---

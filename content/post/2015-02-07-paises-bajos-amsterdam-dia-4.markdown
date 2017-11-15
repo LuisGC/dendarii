@@ -3,7 +3,7 @@ author: yamila
 date: 2015-02-07T22:32:36.000Z
 slug: paises-bajos-amsterdam-dia-4
 title: Países Bajos- Amsterdam (día 4)
-image: /content/images/2015/02/rembrandtpark-blog.jpg
+thumbnailImage: /content/images/2015/02/rembrandtpark-blog.jpg
 tags:
 - Amsterdam
 - Países Bajos

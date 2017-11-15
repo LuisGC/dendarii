@@ -3,7 +3,7 @@ author: yamila
 date: 2017-01-25T18:17:13.281Z
 slug: marruecos-2017-imlill
 title: Marruecos 2017- Imlill
-image: https://c1.staticflickr.com/1/603/32392848021_aef502ab8e_c.jpg
+thumbnailImage: https://c1.staticflickr.com/1/603/32392848021_aef502ab8e_c.jpg
 tags:
 - Marruecos
 ---

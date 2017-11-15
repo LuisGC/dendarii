@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-13T20:38:31.173Z
 slug: eslovenia-2016-skocjan-y-breve-incursion-en-italia
 title: Eslovenia 2016- Skocjan y breve incursión en Italia
-image: https://c1.staticflickr.com/9/8805/29035681033_8036b7dff1_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8805/29035681033_8036b7dff1_c.jpg
 tags:
 - Eslovenia
 ---

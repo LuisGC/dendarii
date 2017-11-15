@@ -3,7 +3,7 @@ author: yamila
 date: 2015-01-26T21:16:38.000Z
 slug: valle-de-iruelas
 title: Valle de Iruelas
-image: /content/images/2015/01/IMG_20150110_131721_blog.jpg
+thumbnailImage: /content/images/2015/01/IMG_20150110_131721_blog.jpg
 tags:
 - Senderismo
 - Valle de Iruelas

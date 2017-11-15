@@ -3,7 +3,7 @@ author: yamila
 date: 2015-09-12T20:03:21.068Z
 slug: suiza-2015-friburgo-y-gruyeres
 title: Suiza 2015- Friburgo y Gruyeres
-image: http://c2.staticflickr.com/6/5796/21336969576_3761c97c9e_z.jpg
+thumbnailImage: http://c2.staticflickr.com/6/5796/21336969576_3761c97c9e_z.jpg
 tags:
 - Suiza
 ---

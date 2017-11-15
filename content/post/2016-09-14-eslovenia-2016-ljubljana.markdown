@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-14T20:42:46.463Z
 slug: eslovenia-2016-ljubljana
 title: Eslovenia 2016- Ljubljana
-image: https://c1.staticflickr.com/9/8157/29601901901_d9229c621b_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8157/29601901901_d9229c621b_c.jpg
 tags:
 - Eslovenia
 ---

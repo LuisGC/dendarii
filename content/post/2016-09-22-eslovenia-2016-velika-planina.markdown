@@ -3,7 +3,7 @@ author: yamila
 date: 2016-09-22T18:02:52.510Z
 slug: eslovenia-2016-velika-planina
 title: Eslovenia 2016- Velika Planina
-image: https://c1.staticflickr.com/9/8464/29546902190_7c1e059a01_c.jpg
+thumbnailImage: https://c1.staticflickr.com/9/8464/29546902190_7c1e059a01_c.jpg
 tags:
 - Eslovenia
 ---

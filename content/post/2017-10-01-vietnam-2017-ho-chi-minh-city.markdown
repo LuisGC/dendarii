@@ -3,7 +3,7 @@ author: yamila
 date: 2017-10-01T19:00:00.000Z
 slug: vietnam-2017-ho-chi-minh-city
 title: Vietnam 2017 - Ho Chi Minh City
-image: https://farm5.staticflickr.com/4369/37385038036_63fa2df5e5_c.jpg
+thumbnailImage: https://farm5.staticflickr.com/4369/37385038036_63fa2df5e5_c.jpg
 tags:
 - Vietnam
 ---

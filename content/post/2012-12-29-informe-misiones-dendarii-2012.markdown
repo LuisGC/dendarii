@@ -3,7 +3,7 @@ author: yamila
 date: 2012-12-29T12:32:30.000Z
 slug: informe-misiones-dendarii-2012
 title: Informe misiones dendarii 2012
-image: /content/images/2012/12/almanzor-blog.jpg
+thumbnailImage: /content/images/2012/12/almanzor-blog.jpg
 
 ---
 

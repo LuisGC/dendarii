@@ -3,7 +3,7 @@ author: yamila
 date: 2017-04-24T21:56:01.389Z
 slug: bearne
 title: Bearne
-image: https://c1.staticflickr.com/3/2910/34077099336_98190fef17.jpg
+thumbnailImage: https://c1.staticflickr.com/3/2910/34077099336_98190fef17.jpg
 tags:
 - Bearne
 ---

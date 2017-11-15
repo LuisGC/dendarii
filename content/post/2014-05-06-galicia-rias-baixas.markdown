@@ -3,7 +3,7 @@ author: yamila
 date: 2014-05-06T18:29:31.000Z
 slug: galicia-rias-baixas
 title: Galicia- Rias Baixas
-image: /content/images/2014/05/vinedos.jpg
+thumbnailImage: /content/images/2014/05/vinedos.jpg
 tags:
 - Galicia
 - Rías Baixas

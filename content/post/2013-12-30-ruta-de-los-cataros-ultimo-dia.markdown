@@ -3,7 +3,7 @@ author: yamila
 date: 2013-12-30T00:33:55.000Z
 slug: ruta-de-los-cataros-ultimo-dia
 title: Ruta de los Cátaros- último día
-image: /content/images/2013/12/sissac.jpg
+thumbnailImage: /content/images/2013/12/sissac.jpg
 tags:
 - Cátaros
 ---

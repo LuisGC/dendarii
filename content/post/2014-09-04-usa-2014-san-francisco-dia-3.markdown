@@ -3,7 +3,7 @@ author: yamila
 date: 2014-09-04T05:23:49.000Z
 slug: usa-2014-san-francisco-dia-3
 title: USA 2014- San Francisco (día 3)
-image: None
+thumbnailImage: None
 tags:
 - USA
 ---

@@ -3,7 +3,7 @@ author: yamila
 date: 2012-12-13T00:08:24.000Z
 slug: tenerife-i-un-viaje-accidentado
 title: Tenerife I- Un viaje accidentado
-image: /content/images/2012/12/p10408331.jpg
+thumbnailImage: /content/images/2012/12/p10408331.jpg
 tags:
 - Tenerife
 ---

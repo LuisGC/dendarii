@@ -3,7 +3,7 @@ author: yamila
 date: 2015-10-09T18:54:52.545Z
 slug: fiesta-de-la-bici-2015
 title: Fiesta de la bici 2015
-image: https://c2.staticflickr.com/6/5726/22030932626_d3d538fe57_c.jpg
+thumbnailImage: https://c2.staticflickr.com/6/5726/22030932626_d3d538fe57_c.jpg
 tags:
 - Madrid
 - Bici

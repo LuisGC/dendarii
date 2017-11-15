@@ -3,7 +3,7 @@ author: yamila
 date: 2012-08-18T08:05:03.000Z
 slug: portugal-i-en-tu-fiesta-me-cole
 title: Portugal I- En tu fiesta me colé
-image: /content/images/2012/08/p10305311.jpg
+thumbnailImage: /content/images/2012/08/p10305311.jpg
 tags:
 - Oporto
 - Portugal

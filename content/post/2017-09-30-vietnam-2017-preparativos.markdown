@@ -3,7 +3,7 @@ author: yamila
 date: 2017-09-30T19:00:00.000Z
 slug: vietnam-2017-preparativos
 title: Vietnam 2017 - Preparativos
-image: https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg
 tags:
 - Vietnam
 ---

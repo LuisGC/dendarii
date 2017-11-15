@@ -3,7 +3,7 @@ author: yamila
 date: 2012-08-23T23:15:41.000Z
 slug: portugal-vi-lisboa
 title: Portugal VI- Lisboa
-image: /content/images/2012/08/p1030758.jpg
+thumbnailImage: /content/images/2012/08/p1030758.jpg
 tags:
 - Lisboa
 - Portugal
