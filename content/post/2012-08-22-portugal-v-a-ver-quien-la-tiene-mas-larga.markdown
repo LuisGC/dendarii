@@ -8,6 +8,8 @@ tags:
 - Coimbra
 - Lisboa
 - Portugal
+trips:
+- Portugal 2012
 ---
 
 

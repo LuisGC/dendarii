@@ -2,16 +2,18 @@
 author: yamila
 date: 2017-05-11T20:55:00.294Z
 slug: portugal-2017-evora-y-fin
-title: Portugal 2017- Évora y fin
+title: Portugal 2017 - Évora y fin
 thumbnailImage: https://c1.staticflickr.com/3/2866/34320305561_51eaf6a493_c.jpg
 tags:
 - Évora
 - Portugal
+trips:
+- Portugal 2017
 ---
 
 El día de vuelta nos lo tomamos con calma y haciendo una parada en Évora, ciudad del interior y cuyo casco histórico fue declarado Patrimonio de la Humanidad. Así que decidimos ir a por nuestro trocito de patrimonio.
 
-En primer lugar fuimos a ver la Iglesia de San Francisco y su exposición de belenes (que llaman <em>presépios</em> porque belén ya estaba pillado con los pastelitos). Fuimos un poco por despiste, pero resultó ser una exposición muy curiosa, sobre todo cuando en las vitrinas jugaban al "más difícil todavía": un belén en una cáscara de nuez, y después, un belén en la cáscara de un cacahuete. 
+En primer lugar fuimos a ver la Iglesia de San Francisco y su exposición de belenes (que llaman <em>presépios</em> porque belén ya estaba pillado con los pastelitos). Fuimos un poco por despiste, pero resultó ser una exposición muy curiosa, sobre todo cuando en las vitrinas jugaban al "más difícil todavía": un belén en una cáscara de nuez, y después, un belén en la cáscara de un cacahuete.
 
 <figure>
 <img src="https://c1.staticflickr.com/5/4191/34291273632_a7972c357e_c.jpg" width="800" height="449" alt="DSCF3109">

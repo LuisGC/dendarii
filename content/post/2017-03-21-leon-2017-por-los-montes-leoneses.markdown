@@ -2,16 +2,20 @@
 author: yamila
 date: 2017-03-21T22:09:18.525Z
 slug: leon-2017-por-los-montes-leoneses
-title: León 2017- Por los montes leoneses
+title: León 2017 - Por los montes leoneses
 thumbnailImage: https://c1.staticflickr.com/4/3755/32732544104_7e13187355_c.jpg
-
+tags:
+- León
+- Cuevas
+trips:
+- León 2017
 ---
 
 Hacía tiempo que un compi me había recomendado visitar la <a href="https://www.google.es/search?q=cueva+de+valporquero&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXztXWvujSAhUkDMAKHaObCk0Q_AUICSgC&biw=1918&bih=992" target="_new">Cueva de Valporquero</a> así que aprovechamos el finde largo que teníamos en Marzo para ir a conocer la zona. Cogimos una casita rural en Villanueva de Pontedo, en la zona de Los Argüellos, como base de operaciones montañeras. Las vistas desde la casita solo auguraban cosas buenas:
 
 <img src="https://c1.staticflickr.com/3/2860/33517833656_77eb62916d_c.jpg" width="800" height="450" alt="Cueva de Valporquero">
 
-El sábado tocó madrugar para hacer una visita muy especial de la Cueva de Valporquero; desde junio de 2016 han puesto en marcha una visita a las cuevas en grupos reducidos (máximo 12 personas). El madrugón se debe a que se accede cuando no hay ninguna otra visita, de forma que estábamos solos en toda la cueva. El guía nos dio unos frontales y con ellos accedimos a la cueva, totalmente a oscuras, "como los antiguos exploradores la iban descubriendo". El camino de salida sí se hace ya con las luces de la cueva encendidas, y con otros grupos visitando el lugar, con lo que el contraste es enorme. 
+El sábado tocó madrugar para hacer una visita muy especial de la Cueva de Valporquero; desde junio de 2016 han puesto en marcha una visita a las cuevas en grupos reducidos (máximo 12 personas). El madrugón se debe a que se accede cuando no hay ninguna otra visita, de forma que estábamos solos en toda la cueva. El guía nos dio unos frontales y con ellos accedimos a la cueva, totalmente a oscuras, "como los antiguos exploradores la iban descubriendo". El camino de salida sí se hace ya con las luces de la cueva encendidas, y con otros grupos visitando el lugar, con lo que el contraste es enorme.
 En el camino de ida, se siente la opresión de la oscuridad, hay que aguzar el oído y escuchar el torrente de agua, percibir los olores y el tacto frío. En el camino de salida, se disfruta la inmensidad de las salas, los espeleotemas o el agua erosionando la roca. Muy recomendable :) Para la visita Valporquero insólito conviene <a href="https://www.dipuleon.es/frontdipuleon/bookingsScheduling.do?action=viewCategory&id=1344263&postAction=showCalendar" target="_new">adquirir la entrada con antelación</a>.
 
 <img src="https://c1.staticflickr.com/4/3928/33430033971_0f0bd1ef58_c.jpg" width="800" height="449" alt="Cueva de Valporquero">

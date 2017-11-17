@@ -2,10 +2,12 @@
 author: yamila
 date: 2016-09-19T19:23:41.623Z
 slug: eslovenia-2016-pokljuka-y-castillo-de-bled
-title: Eslovenia 2016- Pokljuka y Castillo de Bled
+title: Eslovenia 2016 - Pokljuka y Castillo de Bled
 thumbnailImage: https://c1.staticflickr.com/9/8506/29713029711_1f600cc2a0_c.jpg
 tags:
 - Eslovenia
+trips:
+- Eslovenia 2016
 ---
 
 Hoy hemos tenido un día de ruta sencilla en la <a href="https://www.google.si/search?q=pokljuka&client=ms-android-oneplus&prmd=imnv&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjc_dnRjpzPAhVFPxQKHZ1hCD8Q_AUIBygB&biw=360&bih=560&dpr=3#tbm=isch&q=pokljuka" target="_new">meseta Pokljuka</a>, en el interior del Parque Nacional Triglav. Poco a poco, vamos conociendo mejor este enorme parque.
@@ -14,7 +16,7 @@ Es una ruta que discurre junto a turberas y marismas. Aquí en Eslovenia son muy
 
 <img src="https://c1.staticflickr.com/9/8027/29682768532_3620785df6_c.jpg" />
 
-Lo que en julio y agosto será una ruta sencilla sin más, para nosotros ha tenido bastantes obstáculos, pues las lluvias de los días pasados habían dejado buena parte de los caminos impracticables. Nada que un GPS y unas buenas botas no puedan superar. El camino, además de vistas preciosas, 
+Lo que en julio y agosto será una ruta sencilla sin más, para nosotros ha tenido bastantes obstáculos, pues las lluvias de los días pasados habían dejado buena parte de los caminos impracticables. Nada que un GPS y unas buenas botas no puedan superar. El camino, además de vistas preciosas,
 
 <img src="https://c1.staticflickr.com/9/8506/29713029711_1f600cc2a0_c.jpg" />
 
@@ -22,7 +24,7 @@ estaba plagado de setas, y nos hemos encontrado más de una persona agazapada co
 
 <img src="https://c1.staticflickr.com/9/8064/29759599186_090bf85023_c.jpg" />
 
-Por la tarde hemos subido al Castillo de Bled. Nos hemos dado un homenaje comiendo en el restaurante que hay en el castillo con unas vistas alucinantes del lago. 
+Por la tarde hemos subido al Castillo de Bled. Nos hemos dado un homenaje comiendo en el restaurante que hay en el castillo con unas vistas alucinantes del lago.
 
 <img src="https://c1.staticflickr.com/9/8029/29795562475_0faa971936_c.jpg" />
 

@@ -6,6 +6,8 @@ title: Tenerife II- una trampa mortal
 thumbnailImage: /images/2012/12/p1040888.jpg
 tags:
 - Tenerife
+trips:
+- Tenerife 2012
 ---
 
 

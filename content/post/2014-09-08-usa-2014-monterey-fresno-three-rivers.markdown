@@ -6,6 +6,8 @@ title: USA 2014- Monterey - Fresno - Three Rivers
 thumbnailImage: /images/2014/09/blog-check-atlantico.jpg
 tags:
 - USA
+trips:
+- USA 2014
 ---
 
 

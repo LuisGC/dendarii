@@ -6,6 +6,8 @@ title: USA 2014- Sequoia National Park
 thumbnailImage: /images/2014/09/blog-altura.jpg
 tags:
 - USA
+trips:
+- USA 2014
 ---
 
 

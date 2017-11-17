@@ -7,6 +7,8 @@ thumbnailImage: https://c1.staticflickr.com/5/4466/37024481174_d52ddb99b4_c.jpg
 tags:
 - Vietnam
 - Cuevas
+trips:
+- Vietnam 2017
 ---
 
 ¡Que viene el tifón! Pues sí, tras el calor sofocante y las inundaciones de la muerte, nos ha tocado un tifón. Así que hemos tenido que reorganizar un poco los planes para evitar toparnos con Khanum. Y eso nos ha traído a Mai Chau unos días antes de lo que teníamos previsto...

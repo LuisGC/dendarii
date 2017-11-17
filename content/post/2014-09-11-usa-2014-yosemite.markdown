@@ -6,6 +6,8 @@ title: USA 2014- Yosemite
 thumbnailImage: /images/2014/09/blog-tunel-view.jpg
 tags:
 - USA
+trips:
+- USA 2014
 ---
 
 

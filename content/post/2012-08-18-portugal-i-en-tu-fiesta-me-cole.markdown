@@ -7,6 +7,8 @@ thumbnailImage: /images/2012/08/p10305311.jpg
 tags:
 - Oporto
 - Portugal
+trips:
+- Portugal 2012
 ---
 
 

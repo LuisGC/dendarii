@@ -2,10 +2,12 @@
 author: yamila
 date: 2016-09-23T20:37:32.706Z
 slug: eslovenia-2016-parapente-desde-el-vogel-y-ruta-al-sija
-title: Eslovenia 2016- Parapente desde el Vogel y ruta al Sija
+title: Eslovenia 2016 - Parapente desde el Vogel y ruta al Sija
 thumbnailImage: https://c1.staticflickr.com/9/8773/29586971330_34891fdcd8_c.jpg
 tags:
 - Eslovenia
+trips:
+- Eslovenia 2016
 ---
 
 Nuevo día tontako con alguna aventura. Para hoy teníamos contratados dos vuelos en parapente desde la planicie del Vogel, sobre el lago Bohinj.

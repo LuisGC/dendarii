@@ -7,6 +7,8 @@ thumbnailImage: /images/2012/08/p1030758.jpg
 tags:
 - Lisboa
 - Portugal
+trips:
+- Portugal 2012
 ---
 
 

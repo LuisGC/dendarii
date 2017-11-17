@@ -7,13 +7,15 @@ thumbnailImage: https://farm5.staticflickr.com/4486/37763824776_a5e3af832b_c.jpg
 tags:
 - Vietnam
 - Cuevas
+trips:
+- Vietnam 2017
 ---
 
 Último día de este viaje y última excursión. Esta vez fuimos a Tam Coc, que llaman los foros viajeros <em>Ha Long en tierra</em>.
 
 <!--more-->
 
-Tam Coc, en la región de Ninh Binh, al sur de Hanoi, es una zona de arrozales y canales que se visitan en barquita empujada de forma muy característica con los pies. 
+Tam Coc, en la región de Ninh Binh, al sur de Hanoi, es una zona de arrozales y canales que se visitan en barquita empujada de forma muy característica con los pies.
 
 ![Los canales de Tam Coc](https://c1.staticflickr.com/5/4462/37812227971_9f8a776fc3_o.jpg#full)
 

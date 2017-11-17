@@ -6,6 +6,8 @@ title: Portugal VIII- Generalidades y consejos útiles
 thumbnailImage: None
 tags:
 - Portugal
+trips:
+- Portugal 2012
 ---
 
 
@@ -33,14 +35,14 @@ En los bares se puede fumar. En la calle se puede beber. Ignoro si se pueden re
 
 El portuñol se entiende perfectamente. De ida y de vuelta.
 
-El gaspacho no es lo que pensáis: no lo pidáis. Hemos comido muy bien y hemos bebido… mucho 
+El gaspacho no es lo que pensáis: no lo pidáis. Hemos comido muy bien y hemos bebido… mucho
 
-En la radio portuguesa SOLO tienen dos canciones, que hemos escuchado muchas veces. Muchas. Quiero decir, que hemos gastado las canciones 
+En la radio portuguesa SOLO tienen dos canciones, que hemos escuchado muchas veces. Muchas. Quiero decir, que hemos gastado las canciones
 
 <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" frameborder="0" height="315" src="http:/www.youtube.com/embed/Sv6dMFF_yts?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" type="text/html" width="560"></iframe></span> 
 
 <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" frameborder="0" height="315" src="http:/www.youtube.com/embed/8UVNT4wvIGY?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" type="text/html" width="560"></iframe></span> 
 
-En definitiva, un viaje muy recomendable y adaptable a gustos y presupuestos. Si tenéis dudas concretas, podéis ponerlas como comentarios y las responderé poco a poco. Ojo, veis que tengo una media de comentarios muy muy alta (como uno o ninguno o menos, vaya), así que no os impacientéis si tardo en contestar 
+En definitiva, un viaje muy recomendable y adaptable a gustos y presupuestos. Si tenéis dudas concretas, podéis ponerlas como comentarios y las responderé poco a poco. Ojo, veis que tengo una media de comentarios muy muy alta (como uno o ninguno o menos, vaya), así que no os impacientéis si tardo en contestar
 
 

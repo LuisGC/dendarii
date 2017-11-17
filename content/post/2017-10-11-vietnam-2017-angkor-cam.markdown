@@ -8,6 +8,8 @@ thumbnailImagePosition: right
 tags:
 - Vietnam
 - Camboya
+trips:
+- Vietnam 2017
 ---
 
 Saltamos a Siem Reap (Camboya) para visitar Angkor, la ciudad religiosa más grande del mundo (chúpate esa, Vaticano). Ha sido una visita alucinante que recomiendo a cualquiera que se acerque por aquella parte del globo.

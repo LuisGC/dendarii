@@ -2,10 +2,12 @@
 author: yamila
 date: 2016-09-22T19:19:07.966Z
 slug: eslovenia-2016-pico-de-slemenova
-title: Eslovenia 2016- Pico de Slemenova
+title: Eslovenia 2016 - Pico de Slemenova
 thumbnailImage: https://c1.staticflickr.com/9/8863/29821577976_330955a563_c.jpg
 tags:
 - Eslovenia
+trips:
+- Eslovenia 2016
 ---
 
 ¡¡Y un día tremendo!! Hoy teníamos planificada únicamente una ruta, de 3 horas, y con margen para hacerla con calma y tener la tarde libre.

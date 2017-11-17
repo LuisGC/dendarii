@@ -2,10 +2,12 @@
 author: yamila
 date: 2015-08-31T20:45:04.233Z
 slug: suiza-2015-matterhorn-y-aletsch
-title: Suiza 2015- Matterhorn y Aletsch
+title: Suiza 2015 - Matterhorn y Aletsch
 thumbnailImage: http://c1.staticflickr.com/1/710/20853291870_f8fee91a75_b.jpg
 tags:
 - Suiza
+trips:
+- Suiza 2015
 ---
 
 Ayer domingo tocaron diana muy pronto y a las 6 estábamos en marcha. El plan era llegar pronto a Randa en coche, donde cogeríamos un taxi colectivo hasta Zermatt (<em>ciudad sin coches</em>), donde cogeríamos un teleférico para llegar a una estación intermedia, donde cogeríamos la góndola que nos llevaría hasta la estación Klein Matterhorn. ¡Había que madrugar!
@@ -22,11 +24,11 @@ Bajamos de nuevo en góndola hasta Trokener Steg, la estación donde comenzaba n
 
 <img src="http://c2.staticflickr.com/6/5790/20420345223_ae1c2866eb_z.jpg" title="Y me cuentan que en Madrid llovía a cántaros..."/>
 
-De ahí seguimos con la Matterhorn trail, que termina de rodear la montaña por la cara oeste, también con unas vistas espectaculares. Esta vez los prismáticos nos dieron un sorpresón: pillamos a unos alpinistas subiendo la cresta final de la montaña. Es un poco como Peñalara, pero más. Mucho más. A lo bestia más XD 
+De ahí seguimos con la Matterhorn trail, que termina de rodear la montaña por la cara oeste, también con unas vistas espectaculares. Esta vez los prismáticos nos dieron un sorpresón: pillamos a unos alpinistas subiendo la cresta final de la montaña. Es un poco como Peñalara, pero más. Mucho más. A lo bestia más XD
 
 <img src="http://c2.staticflickr.com/6/5792/21015167436_8bb51e141a.jpg" title="Matterhorn"/>
 
-Finalmente fueron unos 15 kms, prácticamente todo cuesta abajo (ojo que también cuesta!) por una zona alucinante. 
+Finalmente fueron unos 15 kms, prácticamente todo cuesta abajo (ojo que también cuesta!) por una zona alucinante.
 
 <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.namhbm8l/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#13/45.9939/7.7225'></iframe>
 

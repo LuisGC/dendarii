@@ -2,9 +2,12 @@
 author: yamila
 date: 2017-03-22T21:23:33.442Z
 slug: leon-2017-capital-romanica
-title: León 2017- capital románica
+title: León 2017 - capital románica
 thumbnailImage: https://c1.staticflickr.com/4/3827/33465317191_ed8099267d_c.jpg
-
+tags:
+- León
+trips:
+- León 2017
 ---
 
 Dejamos atrás los montes leoneses, a los que tenemos que volver, y nos fuimos a León. Aunque recuerdo haber visitado León anteriormente, apenas me acordaba de la ciudad, así que fue un re-descubrimiento fantástico.
@@ -23,7 +26,7 @@ Y así llegamos a la visita del Museo Panteón San Isidoro. La visita dura 45 mi
 
 - se visita el cáliz de Doña Urraca, cuyo mito es tan grande como el santo grial, y cuya historia documentada es loquísima y super interesante
 
-- también se visita el panteón real, donde hay unos frescos del S. XI realmente únicos. Su estado de conservación, los detalles artísticos, la iconografía... 
+- también se visita el panteón real, donde hay unos frescos del S. XI realmente únicos. Su estado de conservación, los detalles artísticos, la iconografía...
 
 - la visita prosigue por el claustro hasta la sala del Gallo, otra pieza única con una venturosa vida y que ha sido testigo de la historia desde el S.VII
 
@@ -35,7 +38,7 @@ Y después de este románico tan especial, nos fuimos a la visita de la Catedral
 
 <img src="https://c1.staticflickr.com/3/2874/32751475454_b42608f6d9_c.jpg" width="800" height="449" alt="León">
 
-Salimos de la Catedral y nos despedimos de León y de un genial puente, para volver a la mundanal rutina. Fue un viaje inesperado y que nos dejó unas sensaciones geniales, y muchísimas ganas de volver a esta maravillosa tierra. 
+Salimos de la Catedral y nos despedimos de León y de un genial puente, para volver a la mundanal rutina. Fue un viaje inesperado y que nos dejó unas sensaciones geniales, y muchísimas ganas de volver a esta maravillosa tierra.
 
 <img src="https://c1.staticflickr.com/3/2858/33465189131_a680ff296b_c.jpg" width="800" height="450" alt="León">
 

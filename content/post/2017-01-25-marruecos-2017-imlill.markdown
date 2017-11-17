@@ -2,10 +2,12 @@
 author: yamila
 date: 2017-01-25T18:17:13.281Z
 slug: marruecos-2017-imlill
-title: Marruecos 2017- Imlill
+title: Marruecos 2017 - Imlill
 thumbnailImage: https://c1.staticflickr.com/1/603/32392848021_aef502ab8e_c.jpg
 tags:
 - Marruecos
+trips:
+- Marruecos 2017
 ---
 
 ¡Nueva aventura tontaka! Este año decidimos cambiar el tradicional viaje de invierno por el norte de Europa por una visita al sur de Marruecos, por aquello de no ir siempre a zonas gélidas. La previsión en Imlill era de -10. Porque lo viajero no quita lo super tontako.
@@ -20,7 +22,7 @@ Ya con el coche nos dirigimos hacia el primer destino en la ruta, Imlill. Es un 
 
 <img src="https://c1.staticflickr.com/1/603/32392848021_aef502ab8e_c.jpg" />
 
-y del tirón nos fuimos a hacer una ruta senderista. Cogimos el camino del Toubkal, aunque nos quedamos bastante más atrás, donde no hacen falta ni crampones ni piolet. Durante toda la ruta nos adelantaron muchos alpinistas pertrechados para el ascenso. 
+y del tirón nos fuimos a hacer una ruta senderista. Cogimos el camino del Toubkal, aunque nos quedamos bastante más atrás, donde no hacen falta ni crampones ni piolet. Durante toda la ruta nos adelantaron muchos alpinistas pertrechados para el ascenso.
 
 <iframe src="https://yamila-moreno.github.io/routes/#13/31.1209/-7.9138" width="100%" height="500px" frameborder="0"></iframe>
 

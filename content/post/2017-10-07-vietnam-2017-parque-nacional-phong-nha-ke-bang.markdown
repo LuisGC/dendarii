@@ -7,6 +7,8 @@ thumbnailImage: https://farm5.staticflickr.com/4513/36878492513_76a7e091c5_c.jpg
 tags:
 - Vietnam
 - Cuevas
+trips:
+- Vietnam 2017
 ---
 
 La siguiente etapa en el viaje de Vietnam ha sido el parque nacional Phong Nha Ke Bang, un destino menos conocido por ahora pero que poco a poco va a ir siendo uno de los puntos fuertes para el turismo activo en Vietnam.
@@ -28,7 +30,7 @@ En los años 90 vinieron grupos britáicos de espeleología porque, dada la comp
 <img src="https://farm5.staticflickr.com/4459/23755083588_2db1f58f3a_c.jpg" alt="Pared vertical en Phong Nha" />
 </figure>
 
-Ayer por la tarde nos acercamos dando un paseo al embarcadero de Son Trach, donde comienza la visita a la cueva Phong Nha. Es una cueva inundada a la que se accede en barco, así que hay que comprar el ticket del barco y la entrada. Son barcos de precio fijo y capacidad para 12 personas. Al llegar a la taquilla, comentamos que queríamos unirnos a un grupo para compartir gastos; nos pidieron que esperásemos hasta que llegase más gente y nos juntaron con un grupo de vietnamitas en el barco. Tras remontar el río Chay un rato, aparece la entrada a la cueva, muy misteriosa. Según nos acercábamos veíamos cómo la cueva engullía algunos barcos y cómo otros emergían, así que había esperanza para nosotros. 
+Ayer por la tarde nos acercamos dando un paseo al embarcadero de Son Trach, donde comienza la visita a la cueva Phong Nha. Es una cueva inundada a la que se accede en barco, así que hay que comprar el ticket del barco y la entrada. Son barcos de precio fijo y capacidad para 12 personas. Al llegar a la taquilla, comentamos que queríamos unirnos a un grupo para compartir gastos; nos pidieron que esperásemos hasta que llegase más gente y nos juntaron con un grupo de vietnamitas en el barco. Tras remontar el río Chay un rato, aparece la entrada a la cueva, muy misteriosa. Según nos acercábamos veíamos cómo la cueva engullía algunos barcos y cómo otros emergían, así que había esperanza para nosotros.
 
 <figure>
 <img src="https://farm5.staticflickr.com/4447/37516520422_e251c6f0d9_c.jpg" alt="Casas en la orilla del río Chay" />

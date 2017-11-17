@@ -2,10 +2,11 @@
 author: yamila
 date: 2017-01-25T20:21:39.260Z
 slug: marruecos-2017-itinerario-y-pecunia
-title: Marruecos 2017- Itinerario y Pecunia
-thumbnailImage: None
+title: Marruecos 2017 - Itinerario y Pecunia
 tags:
 - Marruecos
+trips:
+- Marruecos 2017
 ---
 
 **Generalidades**

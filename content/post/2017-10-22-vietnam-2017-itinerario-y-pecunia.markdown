@@ -7,6 +7,10 @@ thumbnailImage: https://c1.staticflickr.com/5/4493/37495802561_ddd9500e06_h.jpg
 thumbnailImagePosition: left
 tags:
 - Vietnam
+trips:
+- Vietnam 2017
+trips:
+- Vietnam 2017
 ---
 
 Como es habitual en los viajes dendarii, os pongo un repaso por el itinerario y un desglose de gastos, con algún comentario que puede resultar útil.

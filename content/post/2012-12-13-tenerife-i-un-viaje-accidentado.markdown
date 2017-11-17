@@ -6,6 +6,8 @@ title: Tenerife I- Un viaje accidentado
 thumbnailImage: /images/2012/12/p10408331.jpg
 tags:
 - Tenerife
+trips:
+- Tenerife 2012
 ---
 
 

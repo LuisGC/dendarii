@@ -8,6 +8,8 @@ tags:
 - Peneda Gerés
 - Portugal
 - Viana do Castelo
+trips:
+- Portugal 2012
 ---
 
 

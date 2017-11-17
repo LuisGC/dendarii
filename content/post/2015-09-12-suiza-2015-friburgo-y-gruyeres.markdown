@@ -2,10 +2,12 @@
 author: yamila
 date: 2015-09-12T20:03:21.068Z
 slug: suiza-2015-friburgo-y-gruyeres
-title: Suiza 2015- Friburgo y Gruyeres
+title: Suiza 2015 - Friburgo y Gruyeres
 thumbnailImage: http://c2.staticflickr.com/6/5796/21336969576_3761c97c9e_z.jpg
 tags:
 - Suiza
+trips:
+- Suiza 2015
 ---
 
 Y así llegamos a la última etapa de estas vacaciones. Esta mañana nos levantamos pronto y salimos de Berna hacia Friburgo.
@@ -28,7 +30,7 @@ Después de comer, parada obligatoria en la cafetería estilo Alien. El peor caf
 
 <img src="http://c2.staticflickr.com/6/5699/21371522331_8e29b14768.jpg" title="Pero si es todo corchopán!" />
 
-Y nos hemos venido ya a Ginebra a descansar y a preparar nuestras mochilas para mañana. 
+Y nos hemos venido ya a Ginebra a descansar y a preparar nuestras mochilas para mañana.
 Vuelta a la realidad, al trabajo y a la rutina. Como siempre, y no me canso de darme cuenta, viajar con Alex es un lujazo. ¡Larga vida a los viajes del Tontako Team! :D
 
 <div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157658117516889/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>

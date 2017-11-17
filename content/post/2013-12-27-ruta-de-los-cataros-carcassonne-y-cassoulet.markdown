@@ -7,6 +7,8 @@ thumbnailImage: http:/norvig.com/carcassonne.jpg
 tags:
 - Carcassonne
 - Cátaros
+trips:
+- Ruta de los Cátaros 2013
 ---
 
 

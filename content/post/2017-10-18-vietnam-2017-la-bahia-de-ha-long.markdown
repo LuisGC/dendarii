@@ -6,6 +6,8 @@ title: Vietnam 2017 - La Bahía de Ha Long
 thumbnailImage: https://c1.staticflickr.com/5/4495/37793500311_5cb14e4482_b.jpg
 tags:
 - Vietnam
+trips:
+- Vietnam 2017
 ---
 
 Y otro plato fuerte del viaje. (Mini) Crucero por la Bahía de Ha Long, en la costa norte de Vietnam. Es un lugar muy típico y concurrido por turistas de todo el mundo y hemos podido comprobar por qué.
@@ -48,7 +50,7 @@ Esta mañana nos hemos levantado pronto para ir a la isla de Ti Top. En 1962 Ghe
 Y poco a poco hemos ido termimando el crucero. Hemos navegado entre los islotes y hemos estado de charla amena con el resto de los pasajeros. Ha Long es un sitio precioso y muy singular; merece la pena visitarlo a pesar de la sensación de parque temático y de la cantidad de barcos con los que compartimos la bahía.
 
 Nuestro viaje se acerca a su fin. Se nota en el cansancio y también en esa anticipación al viaje que se mezcla con la preparación de la última excursión de estas vacaciones... ¡Mañana nos vamos a Tam Coc!
- 
+
 <strong>Útil</strong>
 
 - Ha Long es el caso típico en el que es muy fácil ir con excursión organizada y bastante difícil ir por tu cuenta.

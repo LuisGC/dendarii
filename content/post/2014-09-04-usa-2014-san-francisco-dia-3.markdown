@@ -2,21 +2,22 @@
 author: yamila
 date: 2014-09-04T05:23:49.000Z
 slug: usa-2014-san-francisco-dia-3
-title: USA 2014- San Francisco (día 3)
-thumbnailImage: None
+title: USA 2014 - San Francisco (día 3)
 tags:
 - USA
+trips:
+- USA 2014
 ---
 
 
 Ayer cenamos en el sitio *trendy* de moda fashion total, en Nopa, cuyo nombre le viene de la zona en la que está, Nopa. Y aquí os dejo unos tips para entender la toponimia americana:
 
-– Nopa: North of Panhandle  
- – Soma: South of Market (street)  
- – Soho: South of Houston (street)  
+– Nopa: North of Panhandle
+ – Soma: South of Market (street)
+ – Soho: South of Houston (street)
  – Tribeca: Triangle Below Canal (street)
 
-¿Cómo se os ha quedado el cuerpo? Total, que en el sitio trendy cenamos estupendamente cosas trendy y ricas. Esta mañana nos hemos levantado prontico porque habíamos quedado para desayunar con Lynn Root (si no os suena de nada, es razonable), que trabaja en Spotify (esta ya os sonará más) y nos ha llevado a visitar sus oficinas. Molan tanto que estoy por aparecer el próximo lunes como si currara allí desde siempre y ver qué pasa 
+¿Cómo se os ha quedado el cuerpo? Total, que en el sitio trendy cenamos estupendamente cosas trendy y ricas. Esta mañana nos hemos levantado prontico porque habíamos quedado para desayunar con Lynn Root (si no os suena de nada, es razonable), que trabaja en Spotify (esta ya os sonará más) y nos ha llevado a visitar sus oficinas. Molan tanto que estoy por aparecer el próximo lunes como si currara allí desde siempre y ver qué pasa
 Después hemos realizado un paseo [un poco desorganizado](http:/es.wikipedia.org/wiki/Movimiento_browniano) por un montón de lugares: desde Market street a la altura de Tender Loin (barrio chungo), hasta Ferry Building, donde está el Pier 1, que tiene una torre inspirada en la Giralda.
 
 Después hemos empezado a subir por Columbus Avenue para visitar North Beach (también llamada Little Italy) y sobre todo China Town (que es la primera o segunda población china más grande de USA). Por la avenida Columbus hemos seguido hasta Fisherman’s Wharf (Pier 39, donde los leones), y ahí hemos cogido uno de los famosos [tranvías](https:/www.google.com/search?q=tranv%C3%ADa+de+san+francisco&es_sm=93&source=lnms&tbm=isch&sa=X&ei=nvMHVIfyL5eyyASS2oCYDA&ved=0CAgQ_AUoAQ&biw=1024&bih=705#tbm=isch&q=san+francisco+powell+and+mason) (6$ cada uno) hasta Union Square.

@@ -2,10 +2,12 @@
 author: yamila
 date: 2014-09-13T04:24:31.000Z
 slug: usa-2014-bodie-mono-lake-mammoth-lakes
-title: USA 2014- Bodie, Mono lake, Mammoth lakes
+title: USA 2014 - Bodie, Mono lake, Mammoth lakes
 thumbnailImage: /images/2014/09/blog-adios-yosemite.jpg
 tags:
 - USA
+trips:
+- USA 2014
 ---
 
 

@@ -8,6 +8,8 @@ tags:
 - Carcassonne
 - Cátaros
 - Lastours
+trips:
+- Ruta de los Cátaros 2013
 ---
 
 

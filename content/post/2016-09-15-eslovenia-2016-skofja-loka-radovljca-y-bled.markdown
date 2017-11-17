@@ -2,10 +2,12 @@
 author: yamila
 date: 2016-09-15T19:29:13.135Z
 slug: eslovenia-2016-skofja-loka-radovljca-y-bled
-title: Eslovenia 2016- Skofja Loka, Radovljca y Bled
+title: Eslovenia 2016 - Skofja Loka, Radovljca y Bled
 thumbnailImage: https://c1.staticflickr.com/9/8081/29622067751_919ec59894_c.jpg
 tags:
 - Eslovenia
+trips:
+- Eslovenia 2016
 ---
 
 ¡Ya estamos en Bled! A partir de hoy comienza la segunda parte del viaje, centrada sobre todo en senderismo por el Parque Nacional Triglav. Si el tiempo lo permite, porque parece que ha dado un vuelto y solo hay mucha lluvia en el horizonte. ¡Veremos!
@@ -42,7 +44,7 @@ No contábamos con que el pueblo diera tanto de sí. Pero finalmente hemos tenid
 
 Hemos bajado a la primera visita obligada: el lago. Es precioso, entre montañas, con el castillo en lo alto y la iglesia en el islote.  Nos hemos sentado en una terraza a ver el paisaje mientras tomábamos un café, cuando ha empezado a llover. Tres horas después seguía lloviendo a mares. Y aún sigue... Confiamos en que aún tendremos algunos días buenos para hacer rutas de calidad.
 
-Mientras tanto, calidad la de este selfie, y las foticos del día... 
+Mientras tanto, calidad la de este selfie, y las foticos del día...
 
 <img src="https://c1.staticflickr.com/9/8536/29667796716_3038177195_c.jpg" />
 

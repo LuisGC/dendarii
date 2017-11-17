@@ -2,10 +2,12 @@
 author: yamila
 date: 2017-01-25T19:19:10.402Z
 slug: marruecos-2017-garganta-del-dades-y-skoura
-title: Marruecos 2017- Garganta del Dades y Skoura
+title: Marruecos 2017 - Garganta del Dades y Skoura
 thumbnailImage: https://c1.staticflickr.com/1/271/31703568643_b356112161_c.jpg
 tags:
 - Marruecos
+trips:
+- Marruecos 2017
 ---
 
 Continúa el periplo tontako por el sur de Marruecos. La siguiente parada era el Valle del Dades, otra zona super recomendada por los paisajes. Llegamos al riad donde nos esperaban con la habitación caldeada. Esto conquistó nuestro corazón para siempre. Fue el alojamiento más cómodo de cuantos tuvimos en el viaje.
@@ -20,7 +22,7 @@ Por la mañana nos dieron el mejor desayuno del viaje, y desde ya me declaro fan
 
 Después nos dirigimos al Valle de las Rosas, famoso porque es donde se cultivan las ¿famosas? rosas del Agua de rosas. Nos dejamos llevar por un post bastante idealizante que encontramos en la red. Sin embargo, no vimos un solo rosal. Pierre el perfumista, te colaste tres pueblos.
 
-Y poco después (lo que significa, varias horas) llegábamos a Skoura, donde haríamos noche. Visitamos la Kasbah y el palmeral y decidimos cenar en el mismo riad. La mejor harira que probé en Marruecos y la única que me gustó realmente. 
+Y poco después (lo que significa, varias horas) llegábamos a Skoura, donde haríamos noche. Visitamos la Kasbah y el palmeral y decidimos cenar en el mismo riad. La mejor harira que probé en Marruecos y la única que me gustó realmente.
 
 <img src="https://c1.staticflickr.com/1/379/31703564013_22ddf8ff1a_c.jpg" />
 

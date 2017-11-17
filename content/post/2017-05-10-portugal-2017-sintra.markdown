@@ -2,11 +2,13 @@
 author: yamila
 date: 2017-05-10T21:53:41.074Z
 slug: portugal-2017-sintra
-title: Portugal 2017- Sintra
+title: Portugal 2017 - Sintra
 thumbnailImage: https://c1.staticflickr.com/5/4183/33608590294_7fc813d211_c.jpg
 tags:
 - Portugal
 - Sintra
+trips:
+- Portugal 2017
 ---
 
 En las afueras de Lisboa está una de las visitas más famosas de Portugal: <a href="https://pt.wikipedia.org/wiki/Sintra" target="_new">la villa de Sintra</a>, donde pudimos visitar el Palacio da Pena y la Quinta da Regaleira.

@@ -6,6 +6,8 @@ title: Tenerife III- Anaga
 thumbnailImage: /images/2012/12/anaga1.jpg
 tags:
 - Tenerife
+trips:
+- Tenerife 2012
 ---
 
 

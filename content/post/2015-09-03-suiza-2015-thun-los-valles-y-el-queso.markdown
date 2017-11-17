@@ -2,10 +2,12 @@
 author: yamila
 date: 2015-09-03T21:30:07.139Z
 slug: suiza-2015-thun-los-valles-y-el-queso
-title: Suiza 2015- Thun, los valles y el queso
+title: Suiza 2015 - Thun, los valles y el queso
 thumbnailImage: http://c2.staticflickr.com/6/5623/20933322510_587a7cbec3_z.jpg
 tags:
 - Suiza
+trips:
+- Suiza 2015
 ---
 
 Al mal tiempo, buena cara, y un poco de replanificación. Salimos de Ayent hacia Thun, donde teníamos previstas algunas visitas de altura: Faulhorn y Jungfraujoch. Resultó que la previsión del tiempo cambió radicalmente para estos días pasados y daban lluvia y niebla en las zonas altas, así que le vimos poco interés al plan original.
@@ -38,7 +40,7 @@ Con un genial sabor de boca por la rutilla, cogimos el coche de nuevo y fuimos a
 
 Nuestra anfitriona nos habló de la zona de su infancia, algunos pueblos del valle Emmental (de donde procede el queso Emmentaler) que no son tan conocidos y algún rincón que apenas visitan turistas. Así que allá que nos hemos ido hoy. Ha sido una ruta inesperada por unos paisajes nuevos aquí en Suiza, y que nos ha llevado a lugares algo insospechados.
 
-De primeras hemos ido a ver una torre en medio de un bosque. Unas vistas de 360º de todo el valle. 
+De primeras hemos ido a ver una torre en medio de un bosque. Unas vistas de 360º de todo el valle.
 
 <img src="//c1.staticflickr.com/1/606/20934666439_1c08c755c6_z.jpg" title="Yolereé híhú" />
 

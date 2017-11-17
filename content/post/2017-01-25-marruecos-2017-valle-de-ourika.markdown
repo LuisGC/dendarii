@@ -2,10 +2,12 @@
 author: yamila
 date: 2017-01-25T18:29:53.626Z
 slug: marruecos-2017-valle-de-ourika
-title: Marruecos 2017- Valle de Ourika
+title: Marruecos 2017 - Valle de Ourika
 thumbnailImage: https://c1.staticflickr.com/1/746/31671565404_e02b20a726_c.jpg
 tags:
 - Marruecos
+trips:
+- Marruecos 2017
 ---
 
 Tras un genial comienzo en las montañas del Atlas, el segundo día tocaba ir al Valle de Ourika, un enclave más turístico-dominguero y con algunos aractivos naturales que nos llamaban la atención.
@@ -14,7 +16,7 @@ La ruta fue tranquila hasta llegar a Setti Fadma, donde un local nos impidió ll
 
 Setti Fadma es como el Ponte Vecchio del turismo. Ni en el zoco de Marrakech nos acosaron de esta forma. Nos armamos de paciencia para localizar el riad y ya con más tranquilidad pudimos planificar.
 
-Resulta que la ruta típica (la ruta de las 7 cascadas) tiene zonas expuestas, así que vimos peligrar nuestro senderismo del día, porque yo no me veía fuerte como para arriesgarme. En el riad nos recomendaron la ruta bereber, hacia el lado opuesto, y fue un acierto. 
+Resulta que la ruta típica (la ruta de las 7 cascadas) tiene zonas expuestas, así que vimos peligrar nuestro senderismo del día, porque yo no me veía fuerte como para arriesgarme. En el riad nos recomendaron la ruta bereber, hacia el lado opuesto, y fue un acierto.
 
 <img src="https://c1.staticflickr.com/1/746/31671565404_e02b20a726_c.jpg" />
 

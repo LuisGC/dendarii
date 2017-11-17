@@ -2,9 +2,13 @@
 author: yamila
 date: 2016-05-02T17:56:22.016Z
 slug: comarca-de-liebana-y-picos-de-europa-raquetas-y-heidi
-title: Comarca de Liébana y Picos de Europa- Raquetas y Heidi
+title: Comarca de Liébana y Picos de Europa - Raquetas y Heidi
 thumbnailImage: http://c1.staticflickr.com/2/1474/26751541976_992a40a45a_c.jpg
-
+tags:
+- Liébana
+- Picos de Europa
+trips:
+- Comarca lebaniega 2016
 ---
 
 Tras un primer día tan chulo, nos levantamos muy motivados por subir a Fuente Dé. Habíamos previsto una ruta senderista potente, pero había demasiada nieve y no parecía muy prudente ir por nuestra cuenta. Así que en su lugar, contratamos una excursión con raquetas por la nieve.

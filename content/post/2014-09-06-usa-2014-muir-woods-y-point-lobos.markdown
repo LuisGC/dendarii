@@ -6,6 +6,8 @@ title: USA 2014- Muir Woods y Point Lobos
 thumbnailImage: /images/2014/09/totx.jpg
 tags:
 - USA
+trips:
+- USA 2014
 ---
 
 

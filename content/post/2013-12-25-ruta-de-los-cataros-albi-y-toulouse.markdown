@@ -9,6 +9,8 @@ tags:
 - Albi
 - Cátaros
 - Toulouse
+trips:
+- Ruta de los Cátaros 2013
 ---
 
 

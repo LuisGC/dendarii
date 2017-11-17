@@ -6,6 +6,8 @@ title: Tenerife IV- Teide y fin
 thumbnailImage: /images/2012/12/teide1.jpg
 tags:
 - Tenerife
+trips:
+- Tenerife 2012
 ---
 
 

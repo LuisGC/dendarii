@@ -2,10 +2,12 @@
 author: yamila
 date: 2017-01-25T18:55:22.775Z
 slug: marruecos-2017-valle-del-draa
-title: Marruecos 2017- Valle del Dráa
+title: Marruecos 2017 - Valle del Dráa
 thumbnailImage: https://c1.staticflickr.com/1/330/32515164155_e2c923aa98_c.jpg
 tags:
 - Marruecos
+trips:
+- Marruecos 2017
 ---
 
 Sobre las 10, ya con el sol bastante alto, cogíamos el coche para recorrer parte del valle del Draá, el río más largo de Marruecos. No siempre se divisa el río, pero es fácil ubicarlo por los palmerales que crecen a lo largo de todo su recorrido.
@@ -24,7 +26,7 @@ En este ksar hay un museo etnológico, muy humilde, pero con muchos objetos trad
 
 A propósito, en el sur de Marruecos, si no hablas francés o árabe, te pierdes mucho. Chapurrean inglés o incluso español, pero para una conversación más interesante, hay que tirar del francés. Kudos para Alex que empezó medio tímido y se ha ido soltando y hablando cómodamente la lengua gala.
 
-Y a media tarde llegamos a Zagora. Es la población más grande del Valle del Dráa, aunque en sí misma no tiene más que una kasbah y un palmeral que no dudamos en pasear al caer la tarde. 
+Y a media tarde llegamos a Zagora. Es la población más grande del Valle del Dráa, aunque en sí misma no tiene más que una kasbah y un palmeral que no dudamos en pasear al caer la tarde.
 
 <img src="https://c1.staticflickr.com/1/516/32474559776_919dcf2cf8_c.jpg" />
 

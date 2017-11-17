@@ -6,6 +6,8 @@ title: Vietnam 2017 - Delta del Mekong
 thumbnailImage: https://farm5.staticflickr.com/4422/36783165223_343b2ffda4_c.jpg
 tags:
 - Vietnam
+trips:
+- Vietnam 2017
 ---
 
 A las 5:15am ha sonado el despertador. Porque las vacaciones no están reñidas con ser tontakos del todo. Madrugón y a la barca para ver el mercado flotante, uno de los puntos fuertes del delta del Mekong.
@@ -67,7 +69,7 @@ Por cierto, me he hecho un cartelito que dice:<em>Khong An Cay</em>, "por favor,
 
 <strong>Útil</strong>
 
-- Se pronuncia [fa], no [fo]. 
+- Se pronuncia [fa], no [fo].
 - La visita al delta es muy chula, el río Mekong impresiona por sus dimensiones y la frondosidad de sus orillas. Sin embargo, si vas con el tiempo más bien justo, yo no pondría esta zona como imprescindible.
 
 Y para terminar, que no falte el selfie:

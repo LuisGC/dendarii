@@ -4,9 +4,12 @@ date: 2012-08-19T10:09:49.000Z
 slug: portugal-ii-rescue-me
 title: Portugal II- Rescue me
 thumbnailImage: /images/2012/08/p1030598.jpg
+thumbnailImagePosition: right
 tags:
 - Oporto
 - Portugal
+trips:
+- Portugal 2012
 ---
 
 

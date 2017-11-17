@@ -2,17 +2,19 @@
 author: yamila
 date: 2015-09-08T20:50:18.969Z
 slug: suiza-2015-en-escafusa-me-cole
-title: Suiza 2015- En Escafusa me colé
+title: Suiza 2015 - En Escafusa me colé
 thumbnailImage: http://c1.staticflickr.com/1/563/21253668695_fb8b72ce05.jpg
 tags:
 - Suiza
+trips:
+- Suiza 2015
 ---
 
 Terminó nuestra visita al Swiss National Park, y nos tocó volver a la Suiza profunda. Escafusa (Schaffhausen si no habláis español antiguo; y si no lo habláis, no sé qué estáis haciendo con vuestras vidas) ha sido nuestro centro de operaciones los dos últimos días.
 
 Desde Italia hasta Escafusa teníamos previstas varias paradas. La primera fue Vaduz, capital de Liechtenstein, donde hay más bancos que personas. Y tienen un príncipe. Y les encanta, según vimos en los carteles. También tienen una calle principal. Una fábrica de sellos. Un museo de sellos. ¿He mencionado lo de los bancos? Y bueno, que ya sabéis que yo soy un poco una vendida al capital, y teníamos la televisión de txopocientas pulgadas que Alex había conseguido de forma <del>ilícita</del> creativa, y aprovechamos para sacarle pingües beneficios. Y así he ganado la apuesta de cómo usar "pingüe" en mi blog. Era una apuesta de mentira, sí.
 
-Desde Vaduz fuimos a Sankt Gallen, ciudad pequeñita y esta sí, con muchísimo encanto. Ya sé que no tiene nada que ver con Lucerna, pero de esta visita sí me quedó la sensación de una ciudad de paseos y recovecos. Y resulta que en Sankt Gallen hay una catedral bastante imponente, donde además se alberga la biblioteca de manuscritos legales más importante ¿de Europa? ¿del mundo? ¿de Suiza? Y no perdimos la oportunidad de visitarla. Una auténtica gozada, de la que solo os puedo dejar <a href="https://www.google.es/search?q=sankt+gallen+library&biw=1918&bih=992&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMImazw_aDoxwIVgekUCh1Vuw62" target="_new">fotos de otros</a> pues está prohibido sacar fotos ahí dentro ahora. Tiene una colección de manuscritos iluminados preciosos. Dan ganas de quedarse ahí y leérselos todos. 
+Desde Vaduz fuimos a Sankt Gallen, ciudad pequeñita y esta sí, con muchísimo encanto. Ya sé que no tiene nada que ver con Lucerna, pero de esta visita sí me quedó la sensación de una ciudad de paseos y recovecos. Y resulta que en Sankt Gallen hay una catedral bastante imponente, donde además se alberga la biblioteca de manuscritos legales más importante ¿de Europa? ¿del mundo? ¿de Suiza? Y no perdimos la oportunidad de visitarla. Una auténtica gozada, de la que solo os puedo dejar <a href="https://www.google.es/search?q=sankt+gallen+library&biw=1918&bih=992&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMImazw_aDoxwIVgekUCh1Vuw62" target="_new">fotos de otros</a> pues está prohibido sacar fotos ahí dentro ahora. Tiene una colección de manuscritos iluminados preciosos. Dan ganas de quedarse ahí y leérselos todos.
 
 Además, la ciudad tiene una zona que es patrimonio de la UNESCO, unas cuantas calles aledañas a la catedral (donde está la biblioteca) con unas fachadas y balcones geniales.
 

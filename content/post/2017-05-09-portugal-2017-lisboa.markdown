@@ -2,11 +2,13 @@
 author: yamila
 date: 2017-05-09T20:56:38.180Z
 slug: portugal-2017-lisboa
-title: Portugal 2017- Lisboa
+title: Portugal 2017 - Lisboa
 thumbnailImage: https://c1.staticflickr.com/5/4176/33640561833_f8d1400221_c.jpg
 tags:
 - Lisboa
 - Portugal
+trips:
+- Portugal 2017
 ---
 
  &#8211; ¿Qué sabemos de Lisboa en España? - nos preguntó el guía. Y ante el silencio del grupo, él mismo respondió - Nada.
@@ -22,7 +24,7 @@ Así que cuando tuvimos los 4 días del tirón aprovechamos para viaje Tontako. 
 
 Por la tarde nos acercamos a Belém, barrio lisboeta situado al oeste de la ciudad, famoso por sus <a href="https://www.google.es/search?q=pasteis+de+belem&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjskrOEx-PTAhVMXhoKHStMAGEQ_AUICigB&biw=1150&bih=992" target="_new"><em>pasteis de Belem</em></a>, un dulce típico hecho con hojaldre y crema pastelera. Está muy rico, aunque entre nosotros, su fama está un poco sobredimensionada.
 
-Visitamos en primer lugar el increíble monasterio de los Jerónimos, cuyo claustro es una verdadera maravilla. Aunque para entrar tuvimos un rato de cola, pudimos realizar la visita a nuestro aire y disfrutar del monumento. 
+Visitamos en primer lugar el increíble monasterio de los Jerónimos, cuyo claustro es una verdadera maravilla. Aunque para entrar tuvimos un rato de cola, pudimos realizar la visita a nuestro aire y disfrutar del monumento.
 
 ![Claustro de los Jerónimos](https://c1.staticflickr.com/5/4185/33640516273_2fdf80ccf3_c.jpg#full)
 

@@ -6,6 +6,8 @@ title: USA 2014- San Francisco (día 4)
 thumbnailImage: /images/2014/09/full-house.jpg
 tags:
 - USA
+trips:
+- USA 2014
 ---
 
 

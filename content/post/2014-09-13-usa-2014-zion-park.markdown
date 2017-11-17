@@ -2,10 +2,12 @@
 author: yamila
 date: 2014-09-13T06:12:51.000Z
 slug: usa-2014-zion-park
-title: USA 2014- Zion Park
+title: USA 2014 - Zion Park
 thumbnailImage: /images/2014/09/blog-foto-alta.jpg
 tags:
 - USA
+trips:
+- USA 2014
 ---
 
 

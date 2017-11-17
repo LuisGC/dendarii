@@ -6,6 +6,8 @@ title: Ruta de los Cátaros- le routé
 thumbnailImage: http://upload.wikimedia.org/wikipedia/commons/f/ff/Abbaye-senanque-gordes-iso.jpg
 tags:
 - Cátaros
+trips:
+- Ruta de los Cátaros 2013
 ---
 
 
