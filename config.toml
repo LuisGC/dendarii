@@ -17,9 +17,9 @@ languageCode = "en-us"
 defaultContentLanguage = "es-es"
 title = "Viajes dendarii"
 theme = "hugo-tranquilpeak-theme"
-#disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "https-dendarii-es"
 # googleAnalytics = "UA-123-45"
-paginate = 2
+paginate = 10
 canonifyurls = true
 
 [permalinks]
