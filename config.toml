@@ -151,6 +151,9 @@ canonifyurls = true
   [[params.customCSS]]
     href = "css/my-flickr.css"
 
+  [[params.customCSS]]
+    href = "css/my-custom.css"
+
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
