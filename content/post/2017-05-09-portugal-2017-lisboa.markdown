@@ -26,7 +26,10 @@ Por la tarde nos acercamos a Belém, barrio lisboeta situado al oeste de la ciud
 
 Visitamos en primer lugar el increíble monasterio de los Jerónimos, cuyo claustro es una verdadera maravilla. Aunque para entrar tuvimos un rato de cola, pudimos realizar la visita a nuestro aire y disfrutar del monumento.
 
-![Claustro de los Jerónimos](https://c1.staticflickr.com/5/4185/33640516273_2fdf80ccf3_c.jpg#full)
+<figure>
+<img src="https://c1.staticflickr.com/5/4185/33640516273_2fdf80ccf3_c.jpg" alt="Claustro del monasterio de los Jerónimos" />
+<figcaption>Claustro del monasterio de los Jerónimos</figcaption>
+</figure>
 
 Nos acercamos después al museo de carruajes, muy entretenido, y con una interesante exposición temporal sobre los carros de bomberos en Lisboa a través de su historia. Belem tiene además un fantástico paseo por el puerto hasta el monumento a los descubrimientos, con buen ambiente, locales, grupos callejeros, cachés (faltaría más!)...
 

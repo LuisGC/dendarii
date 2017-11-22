@@ -1,7 +1,7 @@
 ---
 author: yamila
 date: 2017-10-11T19:00:00.000Z
-slug: vietnam-2017-angkor-cam
+slug: vietnam-2017-angkor-camboya
 title: Vietnam 2017 - Angkor (Camboya)
 thumbnailImage: https://farm5.staticflickr.com/4500/37436814250_c93f1ee599_o.jpg
 thumbnailImagePosition: right
@@ -45,7 +45,9 @@ El segundo día empezó a las 4am para ir a ver cómo amanece detrás de Angkor 
 
 Después continuamos con el Circuito largo de Angkor que nos llevó a Ta Promh y a otros templos de corte budista (una única planta). Al igual que el primer día, recorríamos los templos con los ojos muy abiertos a todos los detalles, a los relieves que decoran las paredes, y las esculturas que protegen los templos.
 
-![Ta Promh](https://farm5.staticflickr.com/4500/37436814250_c93f1ee599_o.jpg#full)
+<figure class="pano">
+<img src="https://farm5.staticflickr.com/4500/37436814250_c93f1ee599_o.jpg" alt="Templo en ruinas sumido en la jungla" />
+</figure>
 
 Por la noche fuimos a un espectáculo llamado <a href="https://pharecircus.org/" target="_new"><em>Cambodian circus</em></a>; es una iniciativa que saca niños de la calle en situaciones de riesgo y les hace partícipes de una tropue de artistas acrobáticos. El espectáculo fue bastante gamberro y divertido y lo recomiendo muy fuerte desde ya. La función que nos tocó trata de la vida diaria de los camboyanos y su relación con los turistas: una sátira de los turistas blancos y sus costumbres hecha con mucho cariño y con más acierto.
 
