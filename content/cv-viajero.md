@@ -30,6 +30,8 @@ showActions: false
 
 ## En orden cronológico
 ### 2017
+<DIV class="cv-list">
+
 * 11 - Cádiz
 * 10 - <a href="/trips/vietnam-2017" target="_new">Vietnam y Camboya</a>
 * 08 - <a href="{{< ref "2017-08-22-arcos-castillos-y-pastitas-de-te.markdown" >}}" target="_new">UK y Gales SPTA</a>
@@ -41,7 +43,11 @@ showActions: false
 * 02 - Fosdem
 * 01 - <a href="/trips/marruecos-2017" target="_new">Marruecos</a>
 
+</DIV>
+
 ### 2016
+<DIV class="cv-list">
+
 * 12 - Sierra de Cazorla
 * 12 - Cerdeñuela y Atapuerca
 * 10 - París
@@ -53,7 +59,11 @@ showActions: false
 * 03 - <a href="{{< ref "2016-03-27-semana-santa-2016-chinchon-via-verde-negrin-y-colmenar-de-oreja.markdown" >}}" target="_new">Chinchón y Colmenar de Oreja</a>
 * 02 - <a href="{{< ref "2016-02-04-koln-2016.markdown" >}}" target="_new">Fosdem y Köln</a>
 
+</DIV>
+
 ### 2015
+<DIV class="cv-list">
+
 * 10 - <a href="{{< ref "2015-10-09-fiesta-de-la-bici-2015.markdown" >}}" target="_new">Fiesta de la bici 2015</a>
 * 09 - <a href="/trips/suiza-2015" target="_new">Suiza</a>
 * 08 - <a href="{{< ref "2015-08-15-paseo-por-el-capital-ring-1.markdown" >}}" target="_new">Paseo por el Capital Ring</a>
@@ -66,7 +76,11 @@ showActions: false
 * 01 - <a href="{{< ref "2015-01-26-valle-de-iruelas.markdown" >}}" target="_new">Valle de Iruelas</a>
 * 01 - <a href="{{< ref "2015-01-08-burdeos-landas-aquitania.markdown" >}}" target="_new">Burdeos, Landas, Aquitania</a>
 
+</DIV>
+
 ### 2014
+<DIV class="cv-list">
+
 * 12 - Cartagena y Cabo de Palos (submarinismo)
 * 09 - <a href="/trips/usa-2014" target="_new">USA</a>
 * 06 - Ordesa
@@ -77,19 +91,32 @@ showActions: false
 * 02 - Fosdem y Bélgica
 * 01 - Ávila
 
+</DIV>
+
 ### 2013
+<DIV class="cv-list">
+
 * 12 - <a href="/trips/ruta-de-los-cátaros-2013" target="_new">Cátaros</a>
 * 08 - Londres
 * 08 - Val de Aran
 * 07 - Sigüenza
 * 05 - Val de Aran
 
+</DIV>
+
 ### 2012
+<DIV class="cv-list">
+
 * 12 - <a href="/trips/tenerife-2012" target="_new">Tenerife</a>
 * 11 - <a href="{{< ref "2012-11-27-guadalajara-hayedo-de-la-tejera-negra-y-ocejon.markdown" >}}" target="_new">Hayedo de la Tejera Negra y Pico Ocejón</a>
 * 08 - <a href="/trips/portugal-2012" target="_new">Portugal</a>
 
+</DIV>
+
 ## Países visitados
+<DIV class="cv-list">
+
+
 * <a href="/tags/alemania" target="_new">Alemania</a>
 * <a href="/tags/argentina" target="_new">Argentina</a>
 * <a href="/tags/belgica" target="_new">Bélgica</a>
@@ -108,6 +135,8 @@ showActions: false
 * <a href="/tags/reino-unido" target="_new">Reino Unido</a>
 * <a href="/tags/suiza" target="_new">Suiza</a>
 * <a href="/tags/vietnam" target="_new">Vietnam</a>
+
+</DIV>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js" ></script>

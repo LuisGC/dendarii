@@ -54,22 +54,22 @@ canonifyurls = true
   url = "/"
 [[menu.main]]
   weight = 2
+  identifier = "cv-viajero"
+  name = "CV viajero"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-globe\"></i>"
+  url = "/cv-viajero"
+[[menu.main]]
+  weight = 3
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 3
+  weight = 4
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 5
-  identifier = "cv-viajero"
-  name = "CV viajero"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-globe\"></i>"
-  url = "/cv-viajero"
 
 
 [[menu.misc]]

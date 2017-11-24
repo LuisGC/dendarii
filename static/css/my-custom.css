@@ -12,3 +12,12 @@
 .pano figcaption {
   text-align: center;
 }
+
+.cv-list ul {
+  width: 55%;
+}
+
+.cv-list ul li {
+  border-bottom: 1px dotted gray;
+  list-style-type: none;
+}
