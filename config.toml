@@ -70,6 +70,12 @@ canonifyurls = true
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
+[[menu.main]]
+  weight = 4
+  identifier = "flickr"
+  name = "Flickr"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-flickr\"></i>"
+  url = "https://www.flickr.com/photos/125687915@N08/albums/"
 
 
 [[menu.misc]]
