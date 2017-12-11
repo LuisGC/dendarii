@@ -6,6 +6,7 @@ title: Eslovenia 2016 - Postojna, Predjama y Piran
 thumbnailImage: https://c1.staticflickr.com/9/8087/29015632893_76b2e81900_c.jpg
 tags:
 - Eslovenia
+- Cuevas
 trips:
 - Eslovenia 2016
 ---

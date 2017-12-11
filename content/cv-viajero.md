@@ -32,6 +32,7 @@ showActions: false
 ### 2017
 <DIV class="cv-list">
 
+* 12 - <a href="{{< ref "2017-12-otono-gredos.markdown" >}}" target="_new">Otoño en Gredos</a>
 * 11 - Cádiz
 * 10 - <a href="/trips/vietnam-2017" target="_new">Vietnam y Camboya</a>
 * 08 - <a href="{{< ref "2017-08-22-arcos-castillos-y-pastitas-de-te.markdown" >}}" target="_new">UK y Gales SPTA</a>

@@ -6,6 +6,7 @@ title: Eslovenia 2016 - Skocjan y breve incursión en Italia
 thumbnailImage: https://c1.staticflickr.com/9/8805/29035681033_8036b7dff1_c.jpg
 tags:
 - Eslovenia
+- Cuevas
 trips:
 - Eslovenia 2016
 ---
