@@ -26,6 +26,8 @@ showActions: false
 * [Descubre mis viajes en orden cronológico](#en-orden-cronológico)
 * [Inspírate con los países que he visitado](#países-visitados)
 
+He visitado 18 países distintos que corresponden a un 8% del mundo:
+
 <div id="map" style="height: 600px; width: 1000px"></div>
 
 ## En orden cronológico
@@ -119,22 +121,22 @@ showActions: false
 <DIV class="cv-list">
 
 
-* <a href="/tags/alemania" target="_new">Alemania</a>
-* <a href="/tags/argentina" target="_new">Argentina</a>
-* <a href="/tags/belgica" target="_new">Bélgica</a>
+* Alemania
+* Argentina
+* Bélgica
 * <a href="/tags/camboya" target="_new">Camboya</a>
-* <a href="/tags/croacia" target="_new">Croacia</a>
+* Croacia
 * <a href="/tags/eslovenia" target="_new">Eslovenia</a>
-* <a href="/tags/españa" target="_new">España</a>
-* <a href="/tags/USA" target="_new">Estados Unidos</a>
-* <a href="/tags/francia" target="_new">Francia</a>
-* <a href="/tags/paises-bajos" target="_new">Holanda</a>
-* <a href="/tags/irlanda" target="_new">Irlanda</a>
-* <a href="/tags/italia" target="_new">Italia</a>
+* España
+* <a href="/tags/usa" target="_new">Estados Unidos</a>
+* Francia
+* Holanda
+* Irlanda
+* Italia
 * <a href="/tags/marruecos" target="_new">Marruecos</a>
-* <a href="/tags/polonia" target="_new">Polonia</a>
+* Polonia
 * <a href="/tags/portugal" target="_new">Portugal</a>
-* <a href="/tags/reino-unido" target="_new">Reino Unido</a>
+* Reino Unido
 * <a href="/tags/suiza" target="_new">Suiza</a>
 * <a href="/tags/vietnam" target="_new">Vietnam</a>
 
