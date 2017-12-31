@@ -3,14 +3,7 @@ author: yamila
 date: 2017-11-27T11:44:06.925Z
 slug: nuevo-look
 title: ¡Nuevo look dendarii!
-# thumbnailImage: https://c1.staticflickr.com/5/4493/37495802561_ddd9500e06_h.jpg
-# thumbnailImagePosition: left
-# tags:
-# - Vietnam
-# trips:
-# - Vietnam 2017
-# trips:
-# - Vietnam 2017
+
 ---
 
 Como habréis podido notar si de vez en cuando os pasáis a visitar las aventuras dendarii, este blog ha dado un cambio sustancial de estilo; también he añadido funcionalidades nuevas que tenía muchas ganas de compartir, y que espero que disfrutéis.
