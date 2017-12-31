@@ -110,6 +110,7 @@ showActions: false
 
 * 12 - <a href="/trips/tenerife-2012" target="_new">Tenerife</a>
 * 11 - <a href="{{< ref "2012-11-27-guadalajara-hayedo-de-la-tejera-negra-y-ocejon.markdown" >}}" target="_new">Hayedo de la Tejera Negra y Pico Ocejón</a>
+* 09 - La Loire à Vélo
 * 08 - <a href="/trips/portugal-2012" target="_new">Portugal</a>
 
 </DIV>
