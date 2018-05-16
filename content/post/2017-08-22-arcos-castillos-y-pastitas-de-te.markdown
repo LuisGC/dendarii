@@ -4,7 +4,11 @@ date: 2017-08-22T09:53:27.182Z
 slug: arcos-castillos-y-pastitas-de-te
 title: Arcos, castillos y pastitas de té...
 thumbnailImage: https://farm5.staticflickr.com/4383/36682762246_6f10ed193e.jpg
-
+tags:
+- Dunster
+- Tiro con arco
+- Inglaterra
+- Gales
 ---
 
 ¡Pequeña aventura dendarii! Desde hace poco más de un año practico tiro con arco, modalidad tradicional, y con dianas 3D, en recorridos al aire libre. Por esto, cuando <a href="http://aljaba.net" target="_new">Pablo</a> nos propuso ir a tirar a la campiña en Gales y Reino Unido durante un finde largo, me lancé sin dudarlo.

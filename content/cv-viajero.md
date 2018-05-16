@@ -31,6 +31,16 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 <div id="map" style="height: 600px; width: 1000px"></div>
 
 ## En orden cronológico
+### 2018
+<DIV class="cv-list">
+
+* 05 - Lake District (Inglaterra)
+* 04 - San George's Shoot en Taunton
+* 03 - Sierra de Aracena y Mina de Riotinto
+* 02 - Fosdem
+
+</DIV>
+
 ### 2017
 <DIV class="cv-list">
 
@@ -126,17 +136,19 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 * Bélgica
 * <a href="/tags/camboya" target="_new">Camboya</a>
 * Croacia
+* Escocia
 * <a href="/tags/eslovenia" target="_new">Eslovenia</a>
 * España
 * <a href="/tags/usa" target="_new">Estados Unidos</a>
 * Francia
+* Gales
 * Holanda
+* Inglaterra
 * Irlanda
 * Italia
 * <a href="/tags/marruecos" target="_new">Marruecos</a>
 * Polonia
 * <a href="/tags/portugal" target="_new">Portugal</a>
-* Reino Unido
 * <a href="/tags/suiza" target="_new">Suiza</a>
 * <a href="/tags/vietnam" target="_new">Vietnam</a>
 
