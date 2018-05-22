@@ -2,18 +2,18 @@
 author: yamila
 draft: false
 date: 2018-03-29T10:00:00.000Z
-slug: sierra-de-aracena-y-mina-de-riotinto
-title: Sierra de Aracena y Mina de Riotinto
+slug: sierra-de-aracena-y-minas-de-riotinto
+title: Sierra de Aracena y Minas de Riotinto
 thumbnailImage: https://farm1.staticflickr.com/821/39471257950_3da409be9a_c.jpg
 thumbnailImagePosition: top
 tags:
 - Sierra de Aracena
-- Mina de Riotinto
+- Minas de Riotinto
 - Cuevas
 - España
 ---
 
-Damos comienzo oficial a la temporada 2018 de Viajes Tontakos; una visita que me habían recomendado y que tenía pendiente desde hace tiempo: la Sierra de Aracena y Mina de Riotinto.
+Damos comienzo oficial a la temporada 2018 de Viajes Tontakos; una visita que me habían recomendado y que tenía pendiente desde hace tiempo: la Sierra de Aracena y Minas de Riotinto.
 
 <!-- more -->
 
@@ -45,7 +45,7 @@ Para el segundo día teníamos una pequeña ruta y visita a algunos pueblos de l
 <figcaption>Castillo de Cortegana</figcaption>
 </figure>
 
-El sábado teníamos ya reservada la visita al Museo Minero en Riotinto y a la Peña de Hierro. La peña de Hierro es una explotación minera que data del S.XIX. Comenzaron la explotación los ingleses, hasta mediados del S.XX cuando la vendieron a una empresa española, que la tuvo abierta hasta los años 70 cuando cerró. Esta mina actualmente está solo abierta al público, aunque desde 2015 se han abierto nuevas explotaciones. Además de la historia de la mina, es muy curioso el río Riotinto, cuyo nombre proviene del color rojo férreo que lleva. Un ecosistema donde se han descubierto bacterias extremófilas y que actualmente significa poder estudiar las condiciones de Marte sin salir de la Tierra.
+El sábado teníamos ya reservada la visita al Museo Minero en Riotinto y a la Peña de Hierro. La peña de Hierro es una explotación minera que data del S.XIX. Comenzaron la explotación los ingleses, hasta mediados del S.XX cuando la vendieron a una empresa española, que la tuvo abierta hasta los años 70 cuando cerró. Esta mina actualmente está solo abierta al público, aunque desde 2015 se han abierto nuevas explotaciones. Además de la historia de la mina, es muy curioso el río Tinto, cuyo nombre proviene del color rojo férreo que lleva. Un ecosistema donde se han descubierto bacterias extremófilas y que actualmente significa poder estudiar las condiciones de Marte sin salir de la Tierra.
 
 <figure>
 <img src="https://farm1.staticflickr.com/788/41237779792_482fa896b5_c.jpg"/>
