@@ -11,12 +11,20 @@ addons:
     packages:
     - rsync
     - openssh-client
+    - git
 
 before_install:
 - openssl aes-256-cbc -K $encrypted_63d3c23833fb_key -iv $encrypted_63d3c23833fb_iv -in travis_access.enc -out travis_access -d
 
 install:
-- GOPATH=$HOME/go go get github.com/spf13/hugo
+#- GOPATH=$HOME/go go get github.com/spf13/hugo
+# FROM HERE
+- mkdir -p $GOPATH/github.com/spf13/hugo
+- git clone https://github.com/gohugoio/hugo.git $GOPATH/github.com/spf13/hugo
+- cd $GOPATH/github.com/spf13/hugo
+- git checkout stable
+- go build
+# TO HERE
 - eval $(ssh-agent -s)
 - chmod 600 travis_access && ssh-add travis_access
 - mkdir -p ~/.ssh
