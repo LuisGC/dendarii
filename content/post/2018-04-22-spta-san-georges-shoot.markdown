@@ -13,7 +13,7 @@ tags:
 
 Tras la escapada al <a href="{{< ref "2017-08-22-arcos-castillos-y-pastitas-de-te.markdown" >}}" target="_blank">Cream Tea Shoot</a> en agosto del año pasado, tenía muchas ganas de repetir una visita arquera a la SPTA. La ocasión fue el <em>Saint George's Shoot</em> organizada también por la <a href="http://www.traditional-archery.org/" target="_blank">Sociedad para la Promoción de la Arquería Tradicional</a>, un grupo volcado en arquería tradicional y un ambiente increíblemente bueno. Pablo y Angela habían estado el año anterior y nos lo vendieron tan bien, que montamos una expedición de 7 arqueros y arqueras de Ithilien. ¡La armada española!
 
-<!-- more -->
+<!--more-->
 
 El evento tiene lugar durante el fin de semana cercano al 23 de abril, conmemorando la onomástica de San Jorge. El viernes 22 llegábamos a Taunton los 7 compañeros de viaje: Ana y Alex, Pablo y Angela, Luiyo y el equipo tontako. La primera noche aprovechamos para cenar y hacer una pequeña celebración del cumple de Luiyo (Zorionak!). Esa noche pusimos a punto los arcos y nos fuimos a descansar, pues el sábado pronto comenzaría la <em>Tirada de San Jorge</em>.
 

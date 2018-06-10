@@ -17,7 +17,7 @@ trips:
 
 Cualquier excusa es buena para conocer nuevas montañas y otros verdes. El <em>Distrito de los Lagos</em>, en el norte de Inglaterra llevaba un tiempo en nuestra lista de sitios por visitar, y por fin encontramos el momento perfecto.
 
-<!-- more -->
+<!--more-->
 
 <em>Lake District</em> es una zona de lagos en el noroeste de Inglaterra. Es famosa por Beatrix Potter, por William Wandsworth y por ser la cuna del senderismo en el país. Como hablamos de la zona de Inglaterra donde más llueve y donde más imprevisible es el tiempo (según los oriundos), supusimos que no merecía mucho la pena volverse locas buscando la semana ideal, pues lo más probable es que siempre nos pillara lluvia. En lugar de eso, nos fuimos bien preparadas para la lluvia.
 
