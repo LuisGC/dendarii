@@ -1,6 +1,5 @@
 ---
 author: yamila
-draft: true
 date: 2018-04-28T10:00:00.000Z
 slug: lake-district-i-bowness-y-catbells
 title: Lake District I - Bowness-on-Windermere y Catbells

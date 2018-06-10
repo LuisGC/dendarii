@@ -34,7 +34,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2018
 <DIV class="cv-list">
 
-* 05 - Lake District (Inglaterra)
+* 05 - <a href="/trips/lake-district-2018" target="_blank">Lake District (Inglaterra)</a>
 * 04 - San George's Shoot en Taunton
 * 03 - <a href="{{< ref "2018-03-29-sierra-de-aracena-y-minas-de-riotinto.markdown" >}}" target="_blank">Sierra de Aracena y Minas de Riotinto</a>
 * 02 - Fosdem

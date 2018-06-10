@@ -1,6 +1,5 @@
 ---
 author: yamila
-draft: true
 date: 2018-04-30T10:00:00.000Z
 slug: lake-district-ii-skafell-pike
 title: Lake District II - Skafell Pike
