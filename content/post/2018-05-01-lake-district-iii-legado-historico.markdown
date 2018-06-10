@@ -44,7 +44,7 @@ El plan seguía por el paso de montaña Hard Knott hasta el fuerte romano del mi
 <figcaption>Bien ubicado, mucha luz, gran zona ajardinada de estilo adriano</figcaption>
 </figure>
 
-Volvimos al coche y continuamos por la carretera que nos había traído hasta aquí. Salir del valle por ese lado fue más sencillo aunque no estuvo exento de emoción; y entre curvas y sustitos, llegamos a la Avadía de Furness, en Barrow. Es una de las abadías cistercienses (S. XII) mejor conservadas de Inglaterra y la visita nos encantó. Esta vez sí nos acompañó la lluvia fina así que, aunque un poco mojados, tuvimos el privilegio de visitar la abadía completamente solos. El complejo visitable es bastante majete: quedan ruinas de la iglesia, el monasterio y los jardines. En la entrada, además de la venta de entradas y tienda de regalos, hay unos paneles sobre la historia de la abadía muy ilustrativos.
+Volvimos al coche y continuamos por la carretera que nos había traído hasta aquí. Salir del valle por ese lado fue más sencillo aunque no estuvo exento de emoción; y entre curvas y sustitos, llegamos a la Abadía de Furness, en Barrow. Es una de las abadías cistercienses (S. XII) mejor conservadas de Inglaterra y la visita nos encantó. Esta vez sí nos acompañó la lluvia fina así que, aunque un poco mojados, tuvimos el privilegio de visitar la abadía completamente solos. El complejo visitable es bastante majete: quedan ruinas de la iglesia, el monasterio y los jardines. En la entrada, además de la venta de entradas y tienda de regalos, hay unos paneles sobre la historia de la abadía muy ilustrativos.
 
 <figure>
 <img src="https://farm2.staticflickr.com/1723/42714147411_05a2079f64_c.jpg" />
