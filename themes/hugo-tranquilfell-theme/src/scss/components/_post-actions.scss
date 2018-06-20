@@ -20,6 +20,7 @@
         // Best width for responsive post's navigation panel on small screen and up
         width:   35%;
         // On very small screen `.post-actions-nav` will be above `.post-actions-share`
+        display: flex;
         z-index: map-get($z-indexes, c-post-bottom-bar) + 2;
 
         li.post-action {

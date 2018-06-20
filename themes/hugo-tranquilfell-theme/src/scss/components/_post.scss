@@ -55,6 +55,8 @@
     }
     .post-footer {
         margin-top: 20px;
+        display: flex;
+        flex-direction: column;
         &-tags {
             padding-bottom: 10px;
             margin-bottom:  10px;
