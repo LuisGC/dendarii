@@ -110,29 +110,51 @@
 
 /// Mixin helper to display the sidebar in large size
 @mixin sidebar-xlg {
-    width:           map-get($sidebar, xlg-screen-width);
+    //width:           map-get($sidebar, xlg-screen-width);
+    width: 100%;
     display:         -webkit-flex;
     display:         -webkit-box;
     display:         -moz-box;
     display:         -ms-flexbox;
     display:         flex;
-    flex-direction:  column;
-    justify-content: center;
+    //flex-direction:  column;
+    flex-direction:  row;
+    //justify-content: center;
+    justify-content: flex-start;
+    height: 100px;
+    align-items: center;
+    background-image:url('https://c1.staticflickr.com/5/4557/26921896379_8334550882_k.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 
     .sidebar-container {
         position: relative;
-        padding:  0 80px;
+        //padding:  0 80px;
+        padding: 0;
+        display: flex;
+        width: 100%;
     }
     // Author information
     .sidebar-profile {
         padding-top:    0;
-        padding-bottom: 7.5px;
+        //padding-bottom: 7.5px;
+        padding-bottom: 0;
+        display: flex;
+        flex-shrink: 0;
+        align-items: center;
+        padding: 0 4rem;
+        margin-bottom: 0;
 
         .sidebar-profile-picture {
-            width:         90px;
-            height:        90px;
-            border-radius: 90px;
-            margin-bottom: 5px;
+            //width:         90px;
+            //height:        90px;
+            //border-radius: 90px;
+            //margin-bottom: 5px;
+            width:         70px;
+            height:        70px;
+            border-radius: 70px;
+            border: 2px solid white;
+            margin-right: 2rem;
         }
         .sidebar-profile-bio,
         .sidebar-profile-job,
@@ -140,6 +162,7 @@
             font-weight: 400;
             font-size:   1.6rem;
             color:       map-get($sidebar, color);
+            margin: 0 0 0 2rem;
         }
         .sidebar-profile-job,
         .sidebar-profile-location {
@@ -147,21 +170,31 @@
             width:      49%;
             display:    inline-block;
         }
+        .sidebar-profile-name {
+          margin: 0;
+        }
     }
     // Buttons
     ul.sidebar-buttons {
-        width:          49%;
-        vertical-align: top;
-        display:        inline-block;
+        //width:          49%;
+        //vertical-align: top;
+        //display:        inline-block;
+        width:          100%;
+        display:        flex;
+        align-items: center;
+        margin: 0 !important;
 
         li.sidebar-button {
             text-align: left;
             box-sizing: border-box;
+            padding-right: 0!important;
             .sidebar-button-link {
                 text-align:  left;
                 width:       auto;
                 padding-top: 0;
                 white-space: nowrap;
+                display: flex;
+                padding-right: 2rem;
                 // Font-awesome icon
                 .sidebar-button-icon {
                     font-size:      2rem;
@@ -172,7 +205,8 @@
                     line-height:    35px;
                     padding-top:    0;
                     vertical-align: middle;
-                    margin-right:   15px;
+                    //margin-right:   15px;
+                    margin-right:   8px;
                 }
                 // Description (name) of a link
                 .sidebar-button-desc {
@@ -195,6 +229,6 @@
     }
     // Used to animate the sidebar (pushed effect)
     &.pushed {
-        @include prefix(transform, translate3d(#{map-get($sidebar, xlg-screen-width)}, 0, 0), 'webkit' 'moz');
+        @include prefix(transform, translate3d(0, #{map-get($sidebar, xlg-screen-width)}, 0), 'webkit' 'moz');
     }
 }

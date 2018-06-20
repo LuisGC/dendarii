@@ -47,6 +47,6 @@
 /// Mixin helper to push `main` div from extra large sidebar size
 @mixin main-pushed-xlg {
     &.pushed {
-        @include prefix(transform, translate3d(#{map-get($sidebar, xlg-screen-width)}, 0, 0), 'webkit' 'moz');
+        @include prefix(transform, translate3d(0, #{map-get($sidebar, xlg-screen-width)}, 0), 'webkit' 'moz');
     }
 }
