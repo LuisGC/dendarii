@@ -5,6 +5,7 @@
     //width:       calc(100% - #{map-get($sidebar, xlg-screen-width)});
     margin-top: 100px;
     width: 100%;
+    overflow: hidden;
 }
 
 /// Mixin helper to stylized `main` div in small size
