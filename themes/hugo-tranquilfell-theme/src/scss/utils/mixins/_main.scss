@@ -3,24 +3,22 @@
     padding-top: map-get($main, padding-top);
     float:       right;
     //width:       calc(100% - #{map-get($sidebar, xlg-screen-width)});
-    width:       100%;
     margin-top: 100px;
+    width: 100%;
 }
 
 /// Mixin helper to stylized `main` div in small size
 @mixin main-sm {
     padding-top: map-get($main, padding-top);
     float:       right;
-    //width:       calc(100% - #{map-get($sidebar, lg-screen-width)});
-    width:       100%;
+    width:       calc(100% - #{map-get($sidebar, lg-screen-width)});
 }
 
 /// Mixin helper to stylized `main` div in medium size
 @mixin main-md {
     padding-top: map-get($main, padding-top);
     float:       right;
-    //width:       calc(100% - #{map-get($sidebar, md-screen-width)});
-    width:       100%;
+    width:       calc(100% - #{map-get($sidebar, md-screen-width)});
 }
 
 /// Mixin helper to stylized `main` div in large size
