@@ -2,21 +2,25 @@
 @mixin main-xs {
     padding-top: map-get($main, padding-top);
     float:       right;
-    width:       calc(100% - #{map-get($sidebar, xlg-screen-width)});
+    //width:       calc(100% - #{map-get($sidebar, xlg-screen-width)});
+    width:       100%;
+    margin-top: 100px;
 }
 
 /// Mixin helper to stylized `main` div in small size
 @mixin main-sm {
     padding-top: map-get($main, padding-top);
     float:       right;
-    width:       calc(100% - #{map-get($sidebar, lg-screen-width)});
+    //width:       calc(100% - #{map-get($sidebar, lg-screen-width)});
+    width:       100%;
 }
 
 /// Mixin helper to stylized `main` div in medium size
 @mixin main-md {
     padding-top: map-get($main, padding-top);
     float:       right;
-    width:       calc(100% - #{map-get($sidebar, md-screen-width)});
+    //width:       calc(100% - #{map-get($sidebar, md-screen-width)});
+    width:       100%;
 }
 
 /// Mixin helper to stylized `main` div in large size

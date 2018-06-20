@@ -156,7 +156,8 @@ $sidebar: (
 // Main
 $main: (
     'padding-top':      15px,
-    'background-color': #fff
+    'background-color': #fff,
+    'background-alpha': rgba(255,255,255,.8)
 );
 
 // Components settings
@@ -216,7 +217,8 @@ $image-gallery-photos-margin: 2px;
 
 // Main content
 $main-content: (
-    'max-width':          750px,
+    //'max-width':          750px,
+    'max-width':          100%,
     'padding-right-left': 20px,
 );
 
