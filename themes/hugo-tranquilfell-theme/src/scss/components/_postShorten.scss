@@ -1,6 +1,10 @@
 // Group of `.postShorten`
 // Add margin and border bottom when `.postShorten` are in `.postShorten-group`
 .postShorten-group {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
     .postShorten {
         // Space between 2 shorten post
         margin-top:    15px;
@@ -14,7 +18,7 @@
     width:          100%;
     display:        inline-block;
     vertical-align: top;
-    max-width: 30vw;
+    max-width: 30%;
 
     .postShorten-wrap {
         background: map-get($main, 'background-color');
@@ -90,7 +94,6 @@
 // Hide the post's thumbnail image on very small screen and down
 @media #{$xsmall-and-down} {
     .postShorten {
-      max-width: 90vw;
         .postShorten-thumbnailimg {
             display: none;
 
@@ -169,12 +172,12 @@
 
 @media #{$large-and-down} {
     .postShorten {
-      max-width: 45vw;
+      max-width: 45%;
     }
 }
 
 @media #{$small-and-down} {
     .postShorten {
-      max-width: 90vw;
+      max-width: 100%;
     }
 }
