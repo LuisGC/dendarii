@@ -19,7 +19,7 @@ title = "Viajes dendarii"
 theme = "hugo-tranquilfell-theme"
 disqusShortname = "https-dendarii-es"
 # googleAnalytics = "UA-109832381-1"
-paginate = 10
+paginate = 12
 canonifyurls = true
 
 [permalinks]
