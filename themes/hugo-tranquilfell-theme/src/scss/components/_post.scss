@@ -1,12 +1,12 @@
 .post {
     position:       relative;
     width:          100%;
-    //display:        inline-block;
-    //vertical-align: top;
-    display: flex;
-    flex-direction: column;
-    max-width: 750px;
-    margin: 0 auto;
+    display:        inline-block;
+    vertical-align: top;
+    //display: flex;
+    // flex-direction: column;
+    // max-width: 750px;
+    // margin: 0 auto;
 
     .post-header {
       flex-direction: column;
@@ -63,6 +63,12 @@
             margin-bottom:  10px;
             border-bottom:  1px solid #eef2f8;
         }
+    }
+}
+
+.pano {
+    img {
+        width: 100% !important;
     }
 }
 

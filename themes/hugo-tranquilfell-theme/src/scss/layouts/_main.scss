@@ -4,8 +4,9 @@
     background:         map-get($main, 'background-alpha');
     transition:         transform .25s ease-in-out;
     -webkit-transition: -webkit-transform .25s ease-in-out;
+    overflow: hidden;
 
-    &[data-behavior="4"] {
+    &.white-bg {
       background: white;
     }
 

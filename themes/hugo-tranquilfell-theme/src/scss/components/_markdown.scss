@@ -1,9 +1,3 @@
-.markdown {
-  .main-content-wrap {
-    background: white;
-    flex-direction: column;
-  }
-}
 // Set markdown headings font size on large screen and up
 @media #{$large-and-up} {
     .markdown {

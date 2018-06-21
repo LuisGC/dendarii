@@ -7,7 +7,7 @@
       <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
         class="{{ with .Params.coverimage }}hasCover{{ end }}
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
-               {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
+               {{ with .Params.coverCaption }}hasCoverCaption{{ end }} white-bg">
         <article class="post" itemscope itemType="http://schema.org/BlogPosting">
           {{ with .Params.covercaption }}
             <span class="post-header-cover-caption caption">{{ . | markdownify }}</span>

@@ -28,7 +28,7 @@ showActions: false
 
 He visitado 18 países distintos que corresponden a un 8% del mundo:
 
-<div id="map" style="height: 600px; width: 1000px"></div>
+<div id="map" style="height: 400px; width: 100%"></div>
 
 ## En orden cronológico
 ### 2018
