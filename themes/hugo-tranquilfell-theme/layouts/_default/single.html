@@ -9,6 +9,9 @@
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }} white-bg">
         <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          <div class="hero-img">
+            <img src="http://elanillounico.com/wp-content/uploads/2016/11/ESDLA-Frodo.jpg" alt="_IMG_NAME_">
+          </div>
           {{ with .Params.covercaption }}
             <span class="post-header-cover-caption caption">{{ . | markdownify }}</span>
           {{ end }}

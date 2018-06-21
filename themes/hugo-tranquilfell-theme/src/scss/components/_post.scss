@@ -3,10 +3,6 @@
     width:          100%;
     display:        inline-block;
     vertical-align: top;
-    //display: flex;
-    // flex-direction: column;
-    // max-width: 750px;
-    // margin: 0 auto;
 
     .post-header {
       flex-direction: column;
@@ -18,6 +14,26 @@
             &:hover {
                 text-decoration: none;
             }
+        }
+    }
+    // HERO IMG
+    .hero-img {
+        width: 100vw;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        height: 40vh;
+        overflow: hidden;
+        margin-bottom: 3rem;
+        margin-top: -15px;
+
+        img {
+            left: -30%;
+            position: absolute;
+            top: -30%;
+            width: 135%;
         }
     }
     // Post meta contains post's date, post's categories and tags
@@ -72,12 +88,27 @@
     }
 }
 
+@media #{$small-and-down} {
+    .post {
+        .hero-img {
+            img {
+                width: 200%;
+            }
+        }
+    }
+}
+
 // Increase the font size of the post's title on medium screen (only for single post view)
 @media #{$medium-only} {
     .post {
         .post-header {
             .post-title {
                 font-size: map-get($headings-font-size, h1) + 0.5rem;
+            }
+        }
+        .hero-img {
+            img {
+                width: 200%;
             }
         }
     }
